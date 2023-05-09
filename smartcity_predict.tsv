@@ -1,0 +1,1315 @@
+city	raw text	clean text	clusterid	summary	keywords
+AK Anchorage	"CONTENTS 
+1 VISION ................................................................................................................................................... 1  
+2 POPULATION ......................................................................................................................................... 3  
+3 CHARACTERISTICS .................................................................................................................................. 3  
+4 SITE MAP ............................................................................................................................................... 4  
+5 APPROACH ............................................................................................................................................. 5  
+5.1 Vision Element #1: Urban Automation ..........................................................................................  5 
+5.2 Vision Element #2: Connected Vehicles ........................................................................................ 6  
+5.3 Vision Element #3: Intelligent, Sensor-Based Infrastructure .........................................................  6 
+5.4 Vision Element #4: Urban Analytics ...............................................................................................  8 
+5.5 Vision Element #5: User-Focused Mobility Services and Choices .................................................. 9  
+5.6 Vision Element #6: Urban Delivery and Logistics ......................................................................... 10 
+5.7 Vision Element #7: Strategic Business Models and Partnering Opportunities ............................  10 
+5.8 Vision Element #8: Smart Grid, Roadway Electrification, and Electric Vehicles ..........................  11 
+5.9 Vision Element #9: Connected, Involved Citizens ........................................................................ 11 
+5.10  Vision Element #10: Architecture and Standards ........................................................................ 11 
+5.11  Vision Element #11: Low-Cost, Efficient, Secure, and Resilient Information and Communications 
+Technology .............................................................................................................................................. 11 
+5.12  Vision Element #12: Smart Land Use ...........................................................................................  12 
+6 RISKS .................................................................................................................................................... 12 
+7 TEAM ................................................................................................................................................... 12 
+8 EXISTING INFRASTRUCTURE ................................................................................................................ 13 
+9 DATA COLLECTION ...............................................................................................................................  15 
+10 EXISTING POLICIES ...........................................................................................................................  15 
+11 EXISTING STANDARDS ..................................................................................................................... 15 
+12 PERFORMANCE MEASURES ............................................................................................................. 15 
+13 CAPACITY ......................................................................................................................................... 15 
+14 RESOURCES ..................................................................................................................................... 16 
+15 APPENDIX A: AMATS Boundary Map ...............................................................................................  17 
+16 APPENDIX B: Municipality of Anchorage Governance Process ........................................................  18 
+17 APPENDIX C: Letters of Support ...................................................................................................... 19 
+18 APPENDIX D: Organizational Information ........................................................................................  20ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+1 1 VISION 
+Anchorage has a new vision. To build a strong and vibrant Anchorage for everyone.  
+ 
+With leadership and support from Mayor Ethan Berkowitz, motivation is high to leverage 
+synergies between municipal systems as a means toward better management. We are confident 
+that Anchorage models the attributes of an ideal candidate for the Smart City Challenge. The 
+values that are guiding Anchorage’s  vision include:  
+ 
+Excellence:  Consistent delivery of quality work products that are data driven and results oriented. 
+Innovation:  Commitment to find thoughtful and creative solutions.  
+Talent:  Looking at one another and engaging outside resources for ideas and solutions.  
+Inclusion:  The community belongs to all who live here and must reflect that reality.  
+Initiative:  Willingness to engage in daring and difficult activities.  
+ 
+Anchorage’s  four priorities and challenges align with USDOT’ s twelve vision elements:  
+ 
+Priority  Challenge  Smart City Vision Element s 
+Public Safety  How can we improve public safety and 
+strengthen Anchorage neighborhoods?  
+  Urban Automation   
+ Connected Vehicles  
+ Intelligent, Sensor Based In frastructure  
+ User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Strategic Business Models & Partnering  
+ Connected, Involved Citizens  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+Homelessness  How can we eradicate homelessness and 
+improve the health of the community?   User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Strategic Business Models & Partnering  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+Business 
+Excellence  How can we facilitate a local government 
+focused on excellent customer service that 
+is fiscally responsible and efficient?   Urban Automation   
+ Connected Vehicles  
+ Intelligent, Sensor Based Infrastructure  
+ User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Urban Delivery & Logistics  
+ Strategic Business Models & Partnering  
+ Smart Grid, Roadway Electrification, & EVsANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+2  Connected, Involved Citizens  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+Revitalized and 
+Resilient 
+Neighborhoods  How can we comprehensively and 
+innovatively seek new ways to support 
+neighborhoods in adapting to both internal 
+and external social, economic, and 
+environmental pressures to emerge 
+stronger and more resourceful while 
+supporting existin g neighborhood 
+character?  
+  Urban Automation  
+ Connected Vehicles  
+ Intelligent, Sensor Based Infrastructure  
+ User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Urban Delivery & Logistics  
+ Strategic Business Models & Partnering  
+ Smart Grid, Roadway Electrification, & EVs  
+ Connected, Involved Citizens  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+ 
+We know there are solutions that will lead us towards cultivating Anchorage’s vision. Key 
+elements include accessible, open data sharing to build transparency throughout the community, 
+enabling the public to help solve some of our challenges, and ultimately creating new 
+opportunities. Linking Information and Communications Technology (ICT) in various key 
+municipal service and infrastructure sectors, such as water, power, and transportation, will 
+enable better decision making and leverage municipal resources. GIS is a critical supporting 
+technology powering Anchorage’s vision, feeding all of  major munici pal systems . Anchorage ’s 
+Regional ITS (Intelligent Transportation Systems) Architecture Implementation Plan identifies 
+technology projects that are needed over the next 10 years, as identified by agency personnel, 
+including a multi-agency Traffic Operations Center and municipal support of the Alaska 511 
+traveler information system. Projects included in the ITS Architecture support the majority of the 
+Smart City Challenge vision elements. 
+Optimization of economic and fiscal cross-benefits to be derived from these plans and projects 
+will require a more holistic view. For example, sensors that monitor parking and traffic in real-
+time can also provide detection and monitoring of situations or events (e.g., water line 
+breakages or traffic) to assist Anchorage Water and Wastewater and Utility, with decision 
+support. Traffic detection camera images can be shared with Anchorage Police Department and 
+Alaska State Troopers in the event of accidents to assist with incident response. 
+Anchorage proposes to embark on a project that engages key municipal and state agencies to 
+develop an ICT Concept of Operations and Architecture. The ICT will establish the goals and 
+objectives in developing the larger vision for technology, information and data sharing, and aANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+3 work program that identifies tangible steps needed to achieve the USDOT’s  vision integration 
+and improve Anchorage’s capacity to make data driven decisions .  
+Anchorage is focused on results; we look forward to sharing our experience and success .  
+2 POPULATION 
+As the largest city in Alaska, Anchorage’s population of 251, 243 accounts for 40% of the state’s 
+population. Located in southcentral Alaska, Anchorage is the hub of the state’s communication, 
+transportation, military, health care, finance, and trade industries. These industries are 
+constantly improving and innovating by upgrading technologies, providing competitive services, 
+and offering new services. Anchorage is a modern city with a diverse population. 100 languages 
+are spoken in the Anchorage School District. Mountain View, a northeast Anchorage 
+neighborhood, boasts the most diverse census tract in all of America. Additionally, 100% of 
+Anchorage’s population resides  within the urbanized area.  
+3 CHARACTERISTICS  
+As a northern city, Anchorage is well known for its winter climate. However, our winter climate is 
+not the primary focus of this application. Our primary focus with this application is to build a 
+strong and 
+vibrant Anchorage for everyone. Anchorage’s public transit provider, People Mover 
+turned 41 years old in 2015. People Mover provides public transportation to the Anchorage, 
+Eagle River, Chugiak and Peters Creek areas which encompass 77 square miles. People Mover 
+maintains a fleet of 52 accessible, ADA compliant buses that travel over two million miles a year. 
+Seven days a week, People Mover operates 14 fixed routes around the Downtown transit center 
+and three satellite hubs. People Mover provides 4.1 million trips annually, with an average 
+weekday ridership of 14,297. Additionally, AnchorRIDES is a shared ride service providing ADA 
+transportation service to people with disabilities, seniors, and other contracted trips. 
+As a young and growing city , Anchorage is  a place for all ages where you can live close to work, 
+make a competitive salary , and have a plethora of options for entertainment and outdoor 
+activities.  Our partner, Anchorage Economic Development Corporation is leading the charge to 
+make Anchorage the #1 city in America to Live. Work. Play  by 2025. There are many things that 
+make this city an amazing place to call home; however to be the #1 city in th e nation to live, 
+work, and play, we must continually improve and invest. Therefore, Anchorage provides an 
+environment that is conducive to dem onstrating the proposed ICT Concept of Operations and 
+Architecture . 
+On May 5th, 2015, the people of Anchorage elected Ethan Berkowitz to be their next mayor, and 
+to lead Alaska’s largest city into its next centennial.  Within two weeks, Mayor-elect Berkowitz 
+announced a transition team to create a blueprint for a safe, secure, and strong Anchorage. The 
+charge was to create a forward thinking transition report that recognized the unique challengesANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+4 and opportunities we have, while identifying the steps his administration could take to more 
+effectively address the critical issues that face Anchorage. He assembled a team of three co-
+chairs, ten sub-committee co-chairs, along with over 125 community and business leaders, 
+practitioners and end-users, organized into five issues specific working groups. Each committee 
+hosted 18 to 25 people, and the rosters were comprised of a diverse group of participants, from 
+a wide range of backgrounds and cultures. The five committees were tasked with examining 
+Mayor- elect Berkowitz’s key areas of concerns, and developing a collaborative and 
+comprehensive approach to addressing the specific area of focus. Four focus areas included 
+Public Safety, Homelessness, Business Excellence, and Revitalized and Resilient Neighborhoods. 
+To ensure even greater public participation, Mayor-elect Berkowitz hosted four town hall 
+meetings and a community diversity celebration over a two-week period in June. These public 
+events drew almost 1,000 people combined, and gave Anchorage residents an opportunity to 
+share their thoughts on the future with the next mayor. By the end of June, each committee had 
+produced a final draft of their recommendations arising from the presentations they’d received 
+from the outgoing administration, committee discussions and public conversations. As outlined 
+in Mayor Berkowitz cover letter Anchorage is focused, highly motivated, and employs the 
+continuity of committed leadership and capacity to carry out the demonstration throughout the 
+period of performance.  
+Anchorage faces fiscal headwinds from declining oil prices and military downsizing, and 
+recognizes the need to become resilient through economic diversification; strategic 
+development and redevelopment efforts of key neighborhoods- particularly our struggling 
+downtown; and support entrepreneurial activity. A commitment to integrating the sharing 
+economy is a natural fit as Anchorage diversifies its economy. Anchorage is a 2016 Smart Growth 
+America  grantee, as a result, technical assistance will focus on a range of issues including transit-
+oriented development, Complete Streets, smart growth zoning, economic development and 
+fiscal health, parking management and regional planning for small communities, among other 
+topics. 
+As a Bloomberg Philanthropies “ What Works City ” grantee, Anchorage has publicly committed to 
+establish and improve its open data practices in order to make the city’s data more accessible to 
+city managers and the public, engage residents around government priorities and services, and 
+increase transparency and accountability. By publishing high-quality city data, Anchorage can, 
+fuel innovation and entrepreneurship while making it easier for the public to engage and access 
+government services. 
+4 SITE MAP 
+The site for Anchorage’s ICT Concept of Operations and Architecture will reflect the MPO 
+boundaries. Anchorage Metropolitan Area Transportation Solutions (AMATS) is the MPO for theANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+5 urbanized area as designated by Governor Jay Hammond on April 8, 1976. Additionally, in 1997 
+the U.S. Secretary of Transportation designated AMATS as a Transportation Management Area 
+(TMA). It is AMATS’ responsibility to meet the requirements of the FAST ACT for the 
+Metropolitan Planning Area (MPA). These requirements call for the development of a 
+multimodal transportation system that integrates with land use plans, reflects the 3C planning 
+process, and meets Federal and State planning requirements. The site map is located in 
+Appendix A. 
+5 APPROACH 
+As it relates to transportation, the twelve USDOT vision elements are woven into many of 
+Anchorage’s adopted Transportation Plans including: the Interim 2035 Metropolitan 
+Transportation Plan, Anchorage 2020 Comprehensive Plan, the Human Service Coordinated 
+Transportation Plan, the Congestion Management Process, the Pedestrian Plan, the Bicycle Plan, 
+People Mover Blueprint, and the Freight Mobility Study. The Smart City Challenge provides 
+Anchorage with an opportunity to holistically integrate the technology solutions that were 
+recommended for implementation in federally funded planning efforts listed above. In reviewing 
+the trends from Beyond Traffic 2045 for the ICT Concept of Operations and Architecture 
+proposal, we recognize the significance of Secretary Foxx’s sentiments regarding the trends. 
+Therefore, Anchorage is committing to working towards the three strategies outlined below.  
+     1. Take better care of our legacy transportation systems. 
+     2. Build what is new and necessary. 
+     3. Use technologies and better design approaches that will allow us to maximize the use of 
+our old and new transportation assets.   
+What follows highlights how Anchorage is currently meeting the intent of the twelve visions or is 
+planning to integrate the visions as part of the ICT Concept of Operations and Architecture. 
+TECHNOLOGY ELEMENTS 
+5.1 Vision Element #1: Urban Automation 
+Anchorage recognizes the ability of automated transportation to enhance safety, mobility, and 
+accessibility, equity, and the environment. Examples of automated transportation planned for 
+the Anchorage area includes: 
+Traffic Operations Center (TOC) : There has been significant discussion about establishing a 
+transportation operation center in the Anchorage area. There is currently a multi-agency group 
+looking at what TOC functions are needed and how best to meet those needs. The group will 
+also assess the configuration of the TOC, with options ranging from a brick and mortar building 
+to a completely virtual TOC. When that work is completed, the recommendations will need to be 
+implemented. There will likely be multiple projects starting in the near term and extending 
+beyond to implement the recommendations.ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+6 Traffi c Signal Controller Upgrade : The existing traffic signal controllers are relatively old. The 
+features and capabilities of the controllers are constrained because of this. There is a current 
+effort to upgrade signal controllers. This effort will continue in the near-term.   
+5.2 Vision Element #2: Connected Vehicles 
+The opportunity to utilize connected infrastructure in order to improve safety, increase mobility, 
+and achieve environmental gains are of great interest to Anchorage. Efficient, real-time, 
+responsive mobility solutions have to ability to positively impact our community by reducing 
+congestion and by providing valuable transportation data for planners and operators. Automated 
+vehicles 
+and vehicles connected to each other and to infrastructure will be upon us soon, and 
+Anchorage must prepare. Examples of connected infrastructure planned for the Anchorage area 
+includes: 
+Transit Signal Priority (TSP):  The Municipality  and its Public Trans it Department piloted TSP 
+systems on routes 7 and 9 within Anchorage . TSP at additional locations will help the 
+Municipality’s transit provider to achieve and maintain on -time performance. In turn this will 
+reduce travel time, making transit more favorable to the public. TSP may also assist with 
+emergency response during disasters for evacuation, triage, etc. Further implementation of TSP 
+is on -hold until the traffic signal controller upgrade project is complete.  
+Signal Priority for Maintenance Vehicles:  Transit vehicles have the ability to request priority at 
+traffic signals using on-board systems. Allowing maintenance vehicles such as snow plows the 
+same ability allows for maintenance work to be completed more quickly and therefore cause 
+fewer disruptions to traffic flow. This is particularly important for snow plows to allow them to 
+proceed on their routes as expeditiously as possible. The usage of signal priority systems could 
+also include automatic vehicle location (AVL) capabilities and turn-signal linkage. 
+Currently, neither the Municipality nor the State of Alaska have plans to build roadside 
+infrastructure that can connect directly to vehicles (e.g., road signs embedded with ability to 
+communicate with private vehicles). As a result of this application, the Municipality/State of 
+Alaska may elect to conduct a cost/benefit analysis, including maintenance costs, to determine if 
+deployment of this technology is warranted. The connected vehicle environment is not included 
+in the current ITS Architecture update; however, MPO staff is researching how to include it in the 
+2040 Metropolitan Transportation Plan Update. 
+5.3 Vision Element #3: Intelligent, Sensor-Based Infrastructure 
+Cameras and sensors can be used by multiple Departments for a variety of purposes. With 
+permissions granted, and given proper controls for privacy (e.g., real-time traffic cameras can be 
+used by Fire and Police to assess incidents and determine appropriate levels of response; parking 
+sensors/cameras can assist water utilities with detection of water main breaks; transit center 
+security cameras can be connected to Police for incident monitoring/response.) Multi-ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+7 department/agency agreements should be identified up-front, before technologies are 
+implemented, to keep implementation costs down. Examples of Intelligent, Sensor-Based 
+Infrastructure planned for the Anchorage area includes: 
+Bicycle Detection and Warnings:  The adopted Bicycle Plan includes an Action Item 
+Recommendation to consider visual or motion detection as options for detecting bicycles at 
+signalized intersections where a high level of bicycle use exists or is anticipated. This strategy can 
+include camera, radar, or other detection. The strategy can be used to detect bicycles as input to 
+the traffic signal controller as well as providing warnings to drivers of motorized vehicles of the 
+presence of bicyclists through means of dynamic message signs, or flashing warning signs. 
+Closed Circuit Television (CCTV):  CCTV provides agencies, operators and the public with real-time 
+images of traffic, and incidents that occur on regional roadways. Anchorage Police Department 
+and Anchorage Fire Department have specifically voiced their interest in an expansion of camera 
+coverage. Camera images could also help Maintenance staff in making decisions regarding their 
+operations. Images can be used to verify reports from the field, and to determine the type of 
+equipment needed to treat injured persons and remove accidents and/or debris from the 
+roadway. There are cameras currently in place within the Municipality. This effort would expand 
+the coverage
+ of cameras in the Municipality. 
+Parkin
+g Space Sensors:  The Municipality is planning to implement a new parking management 
+system. 
+This system will be able to provide parking occupancy and availability information so 
+travelers will know where parking spaces are available. It will also include wayfinding features to 
+provide travelers with information on how to get to the available spaces. This project is in mid-
+term because the parking revenue control system has to be updated first. It is envisioned that 
+information will be displayed on signs along the streets and on a traveler information website. 
+Highway-Rail Intersection (HRI) Warnings:  It is envisioned that the Municipality will implement 
+HRI Warning systems located near highway-rail intersections. This will improve driver awareness 
+of oncoming trains and improve safety at HRIs. Railroad information collected from the Alaska 
+Railroad Corporation (ARRC) wayside equipment and detectors would provide the needed data 
+for this feature. Advanced train detection could collect data such as train speed, location, arrival 
+times, and crossing delays. By collecting and distributing this information to travelers and 
+agencies, motorists could choose their routes and times of travel to minimize delays caused by 
+rail crossings. Dynamic message signs will be the primary mechanism for providing this 
+information, although it could also be displayed on a traveler information website and through 
+smartphone apps.  
+Cameras and sensors for one purpose can be used by other Departments for other purposes, 
+with permissions granted, and given proper controls for privacy (e.g., real-time traffic cameras 
+can be used by Fire and Police to assess incidents and determine appropriate levels of response;ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+8 parking sensors/cameras can assist water utilities with detection of water main breaks; transit 
+center security cameras can be connected to Police for incident monitoring/response.) Multi-
+department/agency agreements should be identified up-front, before technologies are 
+implemented, to keep implementation costs down. 
+INNOVATIVE APPROACHES TO URBAN TRANSPORTATION ELEMENTS 
+5.4 Vision Element #4: Urban Analytics 
+Anchorage is a data-rich environment. Thirty seven Municipal departments are collecting a variety of 
+data that could be integrate that data in order to address our complex urban challenges, 
+performance measures, improve services and current operations. Examples of Urban Analytics in 
+the Anchorage area includes: 
+Data Archive Investigation to Support Multi-Agency Data Sharing:  Currently, agencies in the region 
+maintain their own data repositories. This makes it convenient for internal operations in terms of 
+accessing historic data within one’s ag ency, but not as convenient for obtaining data from others. 
+The aim of Data Archive service area is to support multi-agency data sharing. By creating a 
+central Archive Data Services system that different agencies can contribute to, access to a more 
+abundant amount of historic data becomes streamlined and readily attainable for the 
+participating agencies. There is currently no consensus on the organization or management 
+approach to a centralized data archive. The first step would be to conduct a study on the specific 
+needs for data archiving and how best to meet those needs. This study should consider various 
+types of data to be archived, the priority for archiving each type, where such an archive would 
+best fit among the regional agencies in terms of ownership and operations, and the potential 
+policies and procedures connected to the archive. (A second effort to implement the archive is 
+suggested in the midterm.) 
+Common Geographic Information System (GIS):  The Municipality currently has a common GIS 
+platform. All departments and divisions have access to that platform. There will continue to be 
+additional needs for GIS layers and applications. These efforts will follow the greatest needs of 
+the departments and divisions. 
+Shared Traffic Database:  Within the overall data archive, traffic data shared and easily retrieved 
+traffic data was noted by many agencies as a need. An initial focus of a regional data archive 
+should be on implementing a shared database for traffic data. This will reduce the burden on 
+agencies to collect data or search for data that already exists somewhere within the Municipality . 
+Part of this
+ effort should also investigate geo-coding traffic data so it can be displayed on a GIS 
+layer to graphically display the information. 
+Wi-Fi/Bluetooth Detection for Travel Time:  Wi-Fi and Bluetooth detectors can be used to 
+determine travel times on the roadway network. This system could provide high quality travelANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+9 time for the purpose of modifying traffic signal timing, for performance monitoring, and to post 
+travel times to the public on the web. This technology exists and is cost-effective to implement. 
+A first step would be to design and implement a pilot study to determine how well it works to 
+support traffic signal timing changes, and (if successful) how best to expand the system.   
+Road Weather Information Systems (RWIS) Data Sharing:  AKDOT&PF currently operates RWIS in 
+the Municipality and the surrounding area. A mechanism to share this information with 
+Maintenance staff within the Municipality would help in determining the most effective winter 
+maintenance 
+actions. 
+5.5 Vision Element #5: User-Focused Mobility Services and Choices 
+Anchorage’s Travel Options programs encourage residents, commuters, and visitors to get out of 
+their private automobile for more trips and provide opportunities for them to walk, bike, share 
+rides, and take transit. These programs are coordinated efforts - between AMATS and Public 
+Transit, the business community, universities and other institutions, and area nonprofits - that 
+provide education, information, incentives, and other resources to encourage alternatives to 
+driving alone. Anchorage is becoming more sustainable, encouraging different modes of travel, 
+implementing the Bicycle Plan and Pedestrian Plan, and supporting Integrated Mobility through 
+use of a new Smart Phone app for multi-modal trip planning. 
+Multi-modal Trip Planner:  AMATS is currently working on a multi-modal trip planner hosted by 
+RideAmigos that includes a smartphone app. This piece of technology will enhance the overall 
+mobility for
+ the community including people with disabilities, seniors, and Millennials. The data 
+will be consolidated and available for other organizations to use for their planning purposes.  
+Traveler Information Web Site:  There are several real -time data sources either available or 
+proposed that would be valuable to display on a traveler information website. CCTV camera 
+images are some of the most popular types of traveler information. The existing and any planned 
+CCTV images, either full motion or stills, could be displayed. In addition, information on travel 
+times from the Wi-Fi/Bluetooth detectors could also be displayed. Information on incidents, 
+planned construction closures, or special events that affect traffic could also be included. As 
+additional real-time or planned data was available, it could be added to the website. 
+Intelligent Transit Stops:  Ranges from kiosks, which show static transit schedules, to real-time 
+information on schedules, locations of transit vehicles, arrival time of the vehicle, and alternative 
+routes and modes. This is shown in the mid-term because Public Transportation will be tied up 
+with existing projects and determining their technology refresh in the near term. 
+Fare Payment:  Customers and the Public Transit Department would like to provide a mechanism 
+for customers to recharge their transit accounts on-line and/or through a smartphone app. AANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+10 project to investigate the best mechanisms for Anchorage would be a first step followed by an 
+implementation projec t. 
+Integration with Alaska 511:  The existing condition entry system that AKDOT&PF has connects 
+directly to their 511 system and the information can be shared among a variety of agencies. 
+Authorized personnel in the Municipality such as police, fire, and traffic operators, can input and 
+retrieve traffic information and roadway conditions directly into the statewide database. 
+Personnel could enter and retrieve data through use of mobile devices as well. Once entered, 
+the information is available for everyone to see simultaneously, reducing the time needed to 
+report this information to individual agencies or to the public. Currently Municipality has a 
+Memorandum of Agreement with AKDOT&PF to do this. The Anchorage Police Department 
+recently agreed to an approach where incident information is directly fed to AKDOT&PF through 
+its Nixel feed. 
+Parking Management:  The Municipality is planning to implement a new parking management 
+system. 
+This system will be able to provide parking occupancy and availability information so 
+travelers will know where parking spaces are available. It will also include wayfinding features to 
+provide travelers with information on how to get to the available spaces. This project is in mid-
+term because the parking revenue control system has to be updated first. It is envisioned that 
+information will be displayed on signs along the streets and on a traveler information website.  
+5.6 Vision Element #6: Urban Delivery and Logistics 
+Anchorage is the gateway connection to the world for Alaska; freight shipments from elsewhere 
+sustain the state and local economies. Modernizing the Port of Anchorage is essential for 
+accommodating larger vessels and adapting to changing requirements and technologies.  Trucks 
+of all sizes distribute goods that arrive and depart by air, sea, and rail carrying freight to, from 
+and through the Anchorage metropolitan area and the region beyond. Freight distribution is an 
+integral part of the daily economic activity of the Municipality, freight travel patterns affect 
+traffic and are affected by the efficiency of the road network.  
+An update to the Freight Mobility Plan is currently under way. This document will examine 
+innovative solutions that effectively and efficiently move goods – including food, energy, and 
+manufactured goods, the use data or deploying technology to create opportunities for a more 
+efficient supply chain approach that delivers safer logistics management, improved on-time 
+pickups and delivery, improved travel time reliability, reduced fuel consumption, and reduced 
+labor and vehicle maintenance costs. 
+5.7 Vision Element #7: Strategic Business Models and Partnering Opportunities 
+Anchorage welcomes this opportunity to leverage creative, strategic partnerships that will draw 
+in stakeholders and maximize resources and investments. Our partners include municipal 
+departments; the Mat-Su Borough; the general public; the Anchorage Economic DevelopmentANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+11 Corporation; the Anchorage Community Development Authority; Alaska Native corporations and 
+tribal groups; the Alaska Railroad; Code for Anchorage; the University of Alaska Anchorage; and 
+others.  
+5.8 Vision Element #8: Smart Grid, Roadway Electrification, and Electric Vehicles 
+While Electric Vehicles were not identified in the ITS Architecture update; the construction of a 
+state- of-the-art natural gas power plant, coupled with increased energy efficiency measures in 
+the municipality creates the potential for excess electrical generation capacity that clears the 
+way for reduced costs for electric vehicle fleets.   
+With this additional capacity available, Anchorage plans to transition our Municipal fleets, 
+including buses, to electric vehicles. This process would include installing charging stations in 
+Municipal parking lots, within our Municipal Light & Power utility service area, and eventually 
+throughout all of Anchorage for use by all public and private electric vehicle owners.  
+Additionally, the Anchorage owned electric utility, Municipal Light & Power, intends to install a 
+Smart Grid metering infrastructure pilot program within the next year. Coupling this system with 
+enhanced data collection systems across the Municipality would create an even stronger 
+platform for informed decision making in the future.   
+5.9 Vision Element #9: Connected, Involved Citizens 
+Anchorage’s citizens are connected on multiple levels. First they are connected in the sense they 
+participate and are active within the community on matters of local and state government. 
+Second, they are connected by the data they generate, share, and use. As outlined in their letter 
+of support, our partner Code for Anchorage has worked successfully with several Municipal 
+departments in order to use their data in new and useful ways. AMATS is currently working on a 
+multi-modal trip planner hosted by RideAmigos that includes a smartphone app. This piece of 
+technology will enhanc
+e the overall mobility for the community including people with disabilities, 
+seniors, and Millennials. The data will be consolidated and available for other organizations to 
+use for their planning purposes.    
+SMART CITY ELEMENTS 
+5.10 Vision Element #10: Architecture and Standards 
+As it relates to transportation in Anchorage, AMATS maintains the Regional ITS Architecture and 
+Turbo Architecture™ . The Turbo Architecture™ supports FHWA Rule 940 and FTA National ITS 
+Architecture Policy on Transit Projects.  
+5.11 Vision Element #11: Low-Cost, Efficient, Secure, and Resilient Information and 
+Communications Technology 
+This vision element is the heart of Anchorage’s Smart City Challenge proposal. Developing an ICT 
+Concept of Operations and Architecture will provide Anchorage with strategies and practices 
+that advance information and communications technology (ICT) that is affordable, adaptable,ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+12 efficient, secure and resilient, including integrated telecommunications platforms, enterprise 
+software, storage, and visualization systems. This will include ICT that contributes to one 
+common operating platform to inform city government decision-making. ICT infrastructure, 
+technologies, and services are a critical part of a Smart City. ICT consists of unified 
+communications and the integration of telecommunications, computers as well as necessary 
+enterprise software, storage, and visualization systems, which enable users to access, store, 
+transmit, and manipulate information.  
+5.12 Vision Element #12: Smart Land Use 
+Anchorage recognizes that land use and transportation are tightly intertwined.  Established land 
+uses in the metropolitan area are constrained in many locations by geographical features such as 
+coastlines, mountains, and stream corridors. These established land uses have influenced the 
+travel patterns that exist today.  Understanding the relationship between the distribution of 
+housing and employment is critical to project future transportation demand. The geographical 
+distribution of land uses, development densities, site designs, and proximity to complementary 
+uses directly influence the number and length of trips, mode choice, viability of walking and 
+cycling, the attractiveness of transit service, and travel origin-destination patterns.  
+The regional population growth projections show the most dramatic population growth 
+occurring in the Mat-Su Borough (119%), followed by Chugiak-Eagle River (74%), and Anchorage 
+(15%). Physical growth and common interest are jointly affecting the Municipality and the Mat-
+Su Borough. The two jurisdictions together house the majority of the population and 
+employment in the state. Travel interactions and economic interest argue for collaboration on 
+many fronts. As the urban region continues to grow, pressure is mounting on the amount of land 
+remaining in Anchorage for development.  
+Currently, land use and transportation are being considered together as Anchorage’s  Land Use 
+Plan Map is being updated and land use strategies are being considered as part of the Spenard 
+Corridor Strategic Plan. Planners are working together toward development of an 
+implementation plan for Transit Oriented Development along Transit Supportive Corridors. 
+6 RISKS 
+Risks involved in the ICT Concept of Operations and Architecture project are minimal. At this 
+point there are no technical, policy, or institutional risks associated with the deployment vision. 
+Meaningful public involvement, project communication, and education will be critical 
+components of the project for all Municip al Departments and the general public.  
+7 TEAM 
+ICT Concept of Operations and Architecture project team, partners, and stakeholders will 
+include:ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+13 The Mayor’s Office• AMATS• Office of Emergency Management• Anchorage Police 
+Department• Anchorage Fire Department• Public Transit• Office of Economic and Community 
+Development • Public Works  Maintenance and Operations • Traffic Department• Department of 
+Health and Human Services• AKDOT&PF• National Weather Service• the Center for GIS 
+Excellence• University of Alaska Anchorage• Anchorage Economic Development Corporation• 
+Anchorage Community Development Authority • Chugiak-Birchwood-Eagle River Rural Road 
+Service Area • Native Village of Eklutna • Municipal Light and Power • Anchorage Water and 
+Wastewater Utility • Solid Waste Services • Parks and Recreation •Information Technology • 
+Finance • Joint Base Elmendorf and Richardson • the Mat-Su Borough • the Alaska Railroad • the 
+Port of Anchorage • Code for Anchorage • vRide• Bike Anchorage• and others as identified •  
+Anchorage is open to public and/or private partnerships in order to address the four priorities 
+outlined as part of our vision : Public Safety, Homelessness, Business Excellence, and Revitalized 
+and Resilient Neighborhoods. The Municipal governance process is found in Appendix B .  
+8 EXISTING INFRASTRUCTURE 
+Ownership of roads is shared by local, state, and federal governments and private entities. There 
+are 277 signalized intersections managed by the Municipality on its arterial network and State-
+managed traffic signals on State-owned facilities. The State of Alaska owns most of the most 
+heavily used arterial streets and freeways. The remaining roads are owned by the Municipality of 
+Anchorage
+. In some cases, sections of the same road are owned by both entities and are 
+indicative of the importance of close intergovernmental cooperation and collaboration. 
+Ownership of roads by the federal government occurs on federal lands, such as Joint Base 
+Elmendorf-Richardson. Some private roads within the MPO boundary are owned by residents 
+who use and maintain them. The surface transportation system includes: 
+ 
+Freeway: 51 Centerline Miles 
+Expressway: 2 Centerline Miles 
+Arterial: 174 Centerline Miles 
+Collector: 149 Centerline Miles 
+Local Street: 1,130 Centerline Miles 
+Bicycle Lane: 13 Centerline Miles 
+Pedestrian System: 521 miles of sidewalk 
+Trail System: 243 miles of separated multi-use trails 
+  
+Transit services:  
+People Mover is the fixed-Route bus service in the metropolitan area operated by the 
+Municipality of Anchorage Public Transit Department. Bus service ranges from 30-60 minute 
+headways during the weekday peak and generally every 60 minutes for all other hours includingANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+14 weekends. Service between Chugiak-Eagle River and Anchorage is available on Eagle River 
+Connect, Monday through Friday. 
+ 
+Valley Mover is a public commuter service that operates between the Mat-Su Borough and 
+Anchorage. Valley Mover offers 14 round trips a day,  Monday-Friday.  
+Shared-use mobility services:  
+AnchorRIDES provides demand-response, curb- to-curb transportation service to people with 
+disabilities that prevent them from using People Mover (fixed-route system) and senior citizens.  
+ 
+The Anchorage School District provides transportation for students who live more than 1.5 miles 
+from their school or who live along routes designated as hazardous for walking are eligible to 
+ride a school bus.  
+ 
+Vanpooling is supported by Public Transit’s Share -A-Ride program and contracted by vRide. Of 
+the 56 vanpools in operation, 53 originate from the Mat-Su Borough. 
+Carpooling with in the Anchorage area is currently informal. People use Twitter, Craigslist, 
+Zimride, Ridester, erideshare, and carpool world. The MPO is currently working on a project that 
+will drastically improve carpooling and schoolpooling efforts across the state.   
+ 
+Taxi service in Anchorage is provided by Alaska Yellow Cab and Checker Cab. 
+ 
+Bikeshare is available through the University of Alaska Anchorage. 
+ 
+The Municipality is looking to partner with the University of Alaska Anchorage to expand 
+carsharing throughout Anchorage. Additionally, we are looking at an electric carsharing fleet to 
+be able to capitalize on the excess electrical generation capacity from the new natural gas power 
+plant under construction in Anchorage.  
+ 
+A variety of human service shuttles and private shuttles operate within Anchorage. Some allow 
+the general public 
+to ride, while others only transport their clients, students, or employees. 
+ 
+Information and communication technology (ICT):  
+Anchorage’s Smart City Challenge proposal is for an ICT Concept of Operations and Architecture.  
+Intelligent Transportation Systems (ITS) including transportation management centers and field 
+equipment:  
+  
+Smart Grid Infrastructure including electric vehicle charging infrastructure:ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+15 As part of Vision Element #8: Smart Grid, Roadway Electrification, and Electric Vehicles 
+Anchorage is planning for excess electrical generation capacity. This includes transitioning our 
+Municipal fleets, including buses, to electric vehicles. This process would include installing 
+charging stations in Municipal parking lots, within our Municipal Light & Power utility service 
+area, and eventually throughout all of Anchorage for use by all public and private electric vehicle 
+owners.  
+9 DATA COLLECTION 
+There is data being collected by the thirty-seven Municipal departments. Currently, the 
+Anchorage Water and Wastewater Utility hosts the GIS Center for Excellence. The Municipal 
+Maps and Apps  gallery is a product the Center; at its existing capacity the Center deals with a 
+limited amount of data. The Center has a vision for Enterprise GIS for Anchorage that is a 
+strategic resource for sharing of timely, accurate, and reliable geographical information for all 
+municipal departments, public agencies, and the public at large. Anchorage’s ICT Concept of 
+Operations and Architecture project will identify the lead, additional project partners and 
+stakeholders in order to integrate the data that the city is already collecting to improve 
+management and operations.  
+10 EXISTING POLICIES 
+Currently there are not policies in place applicable to the proposed data to be collected and 
+shared as part of Anchorage’s ICT Concept of Operations and Architecture project application.  
+11 EXISTING STANDARDS 
+Not applicable at the time of Anchorage’s ICT Concept of Operations and Architecture project 
+application.  
+12 PERFORMANCE MEASURES 
+Performance measures for the ICT Concept of Operations and Architecture project have yet to 
+be defined. Metrics could include increases in mobility, safety, system efficiency, economic 
+vitality, and sustainability; and reductions in congestion, environmental impacts, and gaps in 
+service. Additional performance measures should include Anchorage’s f our focus areas: Public 
+Safety, Homelessness, Business Excellence, and Revitalized and Resilient Neighborhoods. 
+13 CAPACITY 
+The Municipality possesses the Technical Capacity to implement and administer the ICT Concept 
+of Operations and Architecture. Projects funded by the USDOT are implemented in accordance 
+with the grant application, Master Agreement, and all applicable laws and regulations, using 
+sound management practices.ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+16 The Municipality is eligible and authorized under state and local law to request, receive, and 
+dispense USDOT funds and to execute and administer federally funded projects. FY 2015 Annual 
+List of Certifications and Assurances were signed by the authorized official and attorney.  
+Additionally, there are no legal issues that have impact on Anchorage's federal program. The 
+Municipality continues to demonstrate its ability to match and manage USDOT grant funds; 
+cover cost increases and operating deficits while financially maintaining and operating federally 
+funded programs and facilities. Anchorage conducts and responds to applicable audits and there 
+are no outstanding financial issues that would impact Anchorage's federal program. An adequate 
+financial management system is in place, allowing grant balances to be tracked accurately. 
+14 RESOURCES 
+Anchorage has several mechanisms in place to leverage its Federal resources. AMATS recently 
+used Crowd Sourcing to meet the local match requirement for the Freight Mobility Study Update 
+that is currently underway.ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+17 15 APPENDIX A: AMATS Boundary MapKnik  Arm
+Turnagain  ArmT u r n a g a i n   A r mK n i k   A r m
+NORTHERN  LIGHTS  BOULEVARD
+ABBOTT  ROAD
+O'MALLEY ROADTUDOR ROADLAKE OTIS PARKWAYDIMOND  BLVD
+SEWARD  HIGHWAYELM
+ORE  
+ROAD5TH AVENUEGLENN  HIGHWAYMULDOON ROAD
+M
+INNESO
+TA  
+DRIVE
+RABBIT  CREEK  ROAD
+SEWARD HIGHWAYSAND LAKE RDEAGLE RIVER RDOLD GLENN HWYGLENN HWY
+HILAND RD
+0 2 4 1
+MilesEagle River PM-10 Limited Maintenance AreaAnchorage CO Limited Maintenance Area
+2010 Census Urbanized Area BoundaryAMATS Boundaries
+MOA Boundary
+Lakes
+Parks
+Military Boundaries
+C h u g a c h   S t a t e   P a r kJ o i n t  B a s e  E l m e n d o r f - R i c h a r d s o n
+AMATS Area BoundaryExpanded 2010 Census Urbanized Area BoundaryANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+18 16 APPENDIX B: Municipality of Anchorage Governance Process"	contents vision population characteristics site map approach vision element urban automation vision element connected vehicles vision element intelligent sensorbased infrastructure vision element urban analytics vision element userfocused mobility services choices vision element urban delivery logistics vision element strategic business models partnering opportunities vision element smart grid roadway electrification electric vehicles vision element connected involved citizens vision element architecture standards vision element lowcost efficient secure resilient information communications technology vision element smart land use risks team existing infrastructure data collection existing policies existing standards performance measures capacity resources appendix amats boundary map appendix b municipality anchorage governance process appendix c letters support appendix organizational information anchorage ak smart city challenge ict concept operations architecture vision anchorage new vision build strong vibrant anchorage leadership support mayor ethan berkowitz motivation high leverage synergies municipal systems means better management confident anchorage models attributes ideal candidate smart city challenge values guiding anchorages vision include excellence consistent delivery quality work products data driven results oriented innovation commitment find thoughtful creative solutions talent looking engaging outside resources ideas solutions inclusion community belongs live reflect reality initiative willingness engage daring difficult activities anchorages priorities challenges align usdot vision elements priority challenge smart city vision element public safety improve public safety strengthen anchorage neighborhoods urban automation connected vehicles intelligent sensor based frastructure user focused mobility services choices urban analytics strategic business models partnering connected involved citizens architecture standards lowcost efficient secure resilient ict smart land use homelessness eradicate homelessness improve health community user focused mobility services choices urban analytics strategic business models partnering architecture standards lowcost efficient secure resilient ict smart land use business excellence facilitate local government focused excellent customer service fiscally responsible efficient urban automation connected vehicles intelligent sensor based infrastructure user focused mobility services choices urban analytics urban delivery logistics strategic business models partnering smart grid roadway electrification evsanchorage ak smart city challenge ict concept operations architecture connected involved citizens architecture standards lowcost efficient secure resilient ict smart land use revitalized resilient neighborhoods comprehensively inovatively seek new ways support neighborhoods adapting internal external social economic environmental pressures emerge stronger resourceful supporting existin g neighborhood character urban automation connected vehicles intelligent sensor based infrastructure user focused mobility services choices urban analytics urban delivery logistics strategic business models partnering smart grid roadway electrification evs connected involved citizens architecture standards lowcost efficient secure resilient ict smart land use know solutions lead cultivating anchorages vision key elements include accessible open data sharing build transparency community enabling public help solve challenges ultimately creating new opportunities linking information communications technology ict key municipal service infrastructure sectors water power transportation enable better decision making leverage municipal resources gis critical supporting technology powering anchorages vision feeding major munici pal systems anchorage regional intelligent transportation systems architecture implementation plan identifies technology projects needed years identified agency personnel including multiagency traffic operations center municipal support alaska traveler information system projects included architecture support majority smart city challenge vision elements optimization economic fiscal crosbenefits derived plans projects require holistic view example sensors monitor parking traffic real time provide detection monitoring situations events eg water line breakages traffic assist anchorage water wastewater utility decision support traffic detection camera images shared anchorage police department alaska state troopers event accidents assist incident response anchorage proposes embark project engages key municipal state agencies develop ict concept operations architecture ict establish goals objectives developing larger vision technology information data sharing anchorage ak smart city challenge ict concept operations architecture work program identifies tangible steps needed achieve usdots vision integration improve anchorages capacity data driven decisions anchorage focused results look forward sharing experience success population largest city alaska anchorages population accounts states population located southcentral alaska anchorage hub states communication transportation military health care finance trade industries industries constantly improving innovating upgrading technologies providing competitive services offering new services anchorage modern city diverse population languages spoken anchorage school district mountain view northeast anchorage neighborhood boasts diverse census tract america additionally anchorages population resides urbanized area characteristics northern city anchorage known winter climate winter climate primary focus application primary focus application build strong vibrant anchorage anchorages public transit provider people mover turned years old people mover provides public transportation anchorage eagle river chugiak peters creek areas encompass square miles people mover maintains fleet accessible ada compliant buses travel million miles year seven days week people mover operates fixed routes downtown transit center satellite hubs people mover provides million trips annually average weekday ridership additionally anchorides shared ride service providing ada transportation service people disabilities seniors contracted trips young growing city anchorage place ages live close work competitive salary plethora options entertainment outdoor activities partner anchorage economic development corporation leading charge anchorage city america live work play things city amazing place home city th e nation live work play continually improve invest anchorage provides environment conducive dem onstrating proposed ict concept operations architecture th people anchorage elected ethan berkowitz mayor lead alaskas largest city centennial weeks mayorelect berkowitz announced transition team create blueprint safe secure strong anchorage charge create forward thinking transition report recognized unique chalengesanchorage ak smart city challenge ict concept operations architecture opportunities identifying steps administration effectively address critical issues face anchorage assembled team co chairs subcommittee cochairs community business leaders practitioners endusers organized issues specific working groups committee hosted people rosters comprised diverse group participants wide range backgrounds cultures committees tasked examining mayor elect berkowitzs key areas concerns developing collaborative comprehensive approach addressing specific area focus focus areas included public safety homelessness business excellence revitalized resilient neighborhoods ensure greater public participation mayorelect berkowitz hosted town hall meetings community diversity celebration twowek period june public events drew people combined gave anchorage residents opportunity share thoughts future mayor end june committee produced final draft recommendations arising presentations received outgoing administration committee discussions public conversations outlined mayor berkowitz cover letter anchorage focused highly motivated employs continuity committed leadership capacity carry demonstration period performance anchorage faces fiscal headwinds declining oil prices military downsizing recognizes need resilient economic diversification strategic development redevelopment efforts key neighborhoods particularly struggling downtown support entrepreneurial activity commitment integrating sharing economy natural fit anchorage diversifies economy anchorage smart growth america grantee result technical assistance focus range issues including transit oriented development complete streets smart growth zoning economic development fiscal health parking management regional planning small communities topics blomberg philanthropies works city grantee anchorage publicly committed establish improve open data practices order citys data accessible city managers public engage residents government priorities services increase transparency accountability publishing highquality city data anchorage fuel innovation entrepreneurship making easier public engage access government services site map site anchorages ict concept operations architecture reflect mpo boundaries anchorage metropolitan area transportation solutions amats mpo theanchorage ak smart city challenge ict concept operations architecture urbanized area designated governor jay hamond april additionally yous secretary transportation designated amats transportation management area tma amats responsibility meet requirements fast act metropolitan planning area mpa requirements development multimodal transportation system integrates land use plans reflects c planning process meets federal state planning requirements site map located appendix approach relates transportation usdot vision elements woven anchorages adopted transportation plans including interim metropolitan transportation plan anchorage comprehensive plan human service coordinated transportation plan congestion management process pedestrian plan bicycle plan people mover blueprint freight mobility study smart city challenge provides anchorage opportunity holisticaly integrate technology solutions recommended implementation federally funded planning efforts listed reviewing trends traffic ict concept operations architecture proposal recognize significance secretary foxs sentiments trends anchorage committing working strategies outlined better care legacy transportation systems build new necessary use technologies better design approaches allow maximize use old new transportation assets follows highlights anchorage currently meeting intent visions planning integrate visions ict concept operations architecture technology elements vision element urban automation anchorage recognizes ability automated transportation enhance safety mobility accessibility equity environment examples automated transportation planned anchorage area includes traffic operations center toc significant discussion establishing transportation operation center anchorage area currently multiagency group looking toc functions needed best meet needs group assess configuration toc options ranging brick mortar building completely virtual toc work completed recommendations need implemented likely multiple projects starting near term extending implement recomendationsanchorage ak smart city challenge ict concept operations architecture trafi c signal controller upgrade existing traffic signal controllers relatively old features capabilities controllers constrained current effort upgrade signal controllers effort continue nearterm vision element connected vehicles opportunity utilize connected infrastructure order improve safety increase mobility achieve environmental gains great interest anchorage efficient realtime responsive mobility solutions ability positively impact community reducing congestion providing valuable transportation data planners operators automated vehicles vehicles connected infrastructure soon anchorage prepare examples connected infrastructure planned anchorage area includes transit signal priority tsp municipality public trans department piloted tsp systems routes anchorage tsp additional locations help municipalitys transit provider achieve maintain time performance turn reduce travel time making transit favorable public tsp assist emergency response disasters evacuation triage etc implementation tsp hold traffic signal controller upgrade project complete signal priority maintenance vehicles transit vehicles ability request priority traffic signals onboard systems allowing maintenance vehicles snow plows ability allows maintenance work completed quickly fewer disruptions traffic flow particularly important snow plows allow proceed routes expeditiously possible usage signal priority systems include automatic vehicle location avl capabilities turnsignal linkage currently municipality state alaska plans build roadside infrastructure connect directly vehicles eg road signs embedded ability communicate private vehicles result application municipalitystate alaska elect conduct costbenefit analysis including maintenance costs determine deployment technology warranted connected vehicle environment included current architecture update mpo staff researching include metropolitan transportation plan update vision element intelligent sensorbased infrastructure cameras sensors multiple departments variety purposes permissions granted given proper controls privacy eg realtime traffic cameras fire police assess incidents determine appropriate levels response parking sensorscameras assist water utilities detection water main breaks transit center security cameras connected police incident monitoringresponse multianchorage ak smart city challenge ict concept operations architecture departmentagency agreements identified upfront technologies implemented implementation costs examples intelligent sensorbased infrastructure planned anchorage area includes bicycle detection warnings adopted bicycle plan includes action item recommendation consider visual motion detection options detecting bicycles signalized intersections high level bicycle use exists anticipated strategy include camera radar detection strategy detect bicycles input traffic signal controller providing warnings drivers motorized vehicles presence bicyclists means dynamic message signs flashing warning signs closed circuit television ctv ctv provides agencies operators public realtime images traffic incidents occur regional roadways anchorage police department anchorage fire department specifically voiced interest expansion camera coverage camera images help maintenance staff making decisions operations images verify reports field determine type equipment needed treat injured persons remove accidents andor debris roadway cameras currently place municipality effort expand coverage cameras municipality parkin g space sensors municipality planning implement new parking management system system able provide parking occupancy availability information travelers know parking spaces available include wayfinding features provide travelers information available spaces project mid term parking revenue control system updated envisioned information displayed signs streets traveler information website highwayrail intersection hri warnings envisioned municipality implement hri warning systems located near highwayrail intersections improve driver awareness oncoming trains improve safety hris railroad information collected alaska railroad corporation arc wayside equipment detectors provide needed data feature advanced train detection collect data train speed location arrival times crossing delays collecting distributing information travelers agencies motorists choose routes times travel minimize delays caused rail crossings dynamic message signs primary mechanism providing information displayed traveler information website smartphone aps cameras sensors purpose departments purposes permissions granted given proper controls privacy eg realtime traffic cameras fire police assess incidents determine appropriate levels responseanchorage ak smart city challenge ict concept operations architecture parking sensorscameras assist water utilities detection water main breaks transit center security cameras connected police incident monitoringresponse multi departmentagency agreements identified upfront technologies implemented implementation costs innovative approaches urban transportation elements vision element urban analytics anchorage datarich environment thirty seven municipal departments collecting variety data integrate data order address complex urban challenges performance measures improve services current operations examples urban analytics anchorage area includes data archive investigation support multiagency data sharing currently agencies region maintain data repositories makes convenient internal operations terms accessing historic data ones ag ency convenient obtaining data aim data archive service area support multiagency data sharing creating central archive data services system different agencies contribute access abundant historic data streamlined readily attainable participating agencies currently consensus organization management approach centralized data archive step conduct study specific needs data archiving best meet needs study consider types data archived priority archiving type archive best fit regional agencies terms ownership operations potential policies procedures connected archive second effort implement archive suggested midterm common geographic information system gis municipality currently common gis platform departments divisions access platform continue additional needs gis layers applications efforts follow greatest needs departments divisions shared traffic database overall data archive traffic data shared easily retrieved traffic data noted agencies need initial focus regional data archive implementing shared database traffic data reduce burden agencies collect data search data exists municipality effort investigate geocoding traffic data displayed gis layer graphically display information wifibluetoth detection travel time wifi bluetoth detectors determine travel times roadway network system provide high quality travelanchorage ak smart city challenge ict concept operations architecture time purpose modifying traffic signal timing performance monitoring post travel times public web technology exists costefective implement step design implement pilot study determine works support traffic signal timing changes successful best expand system road weather information systems rwis data sharing akdotpf currently operates rwis municipality surrounding area mechanism share information maintenance staff municipality help determining effective winter maintenance actions vision element userfocused mobility services choices anchorages travel options programs encourage residents commuters visitors private automobile trips provide opportunities walk bike share rides transit programs coordinated efforts amats public transit business community universities institutions area nonprofits provide education information incentives resources encourage alternatives driving anchorage sustainable encouraging different modes travel implementing bicycle plan pedestrian plan supporting integrated mobility use new smart phone ap multimodal trip planning multimodal trip planner amats currently working multimodal trip planner hosted rideamigos includes smartphone ap piece technology enhance overall mobility community including people disabilities seniors milenials data consolidated available organizations use planning purposes traveler information web site real time data sources available proposed valuable display traveler information website ctv camera images popular types traveler information existing planned ctv images motion stills displayed addition information travel times wifibluetoth detectors displayed information incidents planned construction closures special events affect traffic included additional realtime planned data available added website intelligent transit stops ranges kiosks static transit schedules realtime information schedules locations transit vehicles arrival time vehicle alternative routes modes shown midterm public transportation tied existing projects determining technology refresh near term fare payment customers public transit department like provide mechanism customers recharge transit accounts online andor smartphone ap anchorage ak smart city challenge ict concept operations architecture project investigate best mechanisms anchorage step followed implementation projec integration alaska existing condition entry system akdotpf connects directly system information shared variety agencies authorized personnel municipality police fire traffic operators input retrieve traffic information roadway conditions directly statewide database personnel enter retrieve data use mobile devices entered information available simultaneously reducing time needed report information individual agencies public currently municipality memorandum agreement akdotpf anchorage police department recently agreed approach incident information directly fed akdotpf nixel feed parking management municipality planning implement new parking management system system able provide parking occupancy availability information travelers know parking spaces available include wayfinding features provide travelers information available spaces project mid term parking revenue control system updated envisioned information displayed signs streets traveler information website vision element urban delivery logistics anchorage gateway connection world alaska freight shipments sustain state local economies modernizing port anchorage essential accommodating larger vessels adapting changing requirements technologies trucks sizes distribute goods arrive depart air sea rail carrying freight anchorage metropolitan area region freight distribution integral daily economic activity municipality freight travel patterns affect traffic affected efficiency road network update freight mobility plan currently way document examine innovative solutions effectively efficiently goods including food energy manufactured goods use data deploying technology create opportunities efficient supply chain approach delivers safer logistics management improved ontime pickups delivery improved travel time reliability reduced fuel consumption reduced labor vehicle maintenance costs vision element strategic business models partnering opportunities anchorage welcomes opportunity leverage creative strategic partnerships draw stakeholders maximize resources investments partners include municipal departments matsu borough general public anchorage economic developmentanchorage ak smart city challenge ict concept operations architecture corporation anchorage community development authority alaska native corporations tribal groups alaska railroad code anchorage university alaska anchorage vision element smart grid roadway electrification electric vehicles electric vehicles identified architecture update construction state oftheart natural gas power plant coupled increased energy efficiency measures municipality creates potential excess electrical generation capacity clears way reduced costs electric vehicle fleets additional capacity available anchorage plans transition municipal fleets including buses electric vehicles process include installing charging stations municipal parking lots municipal light power utility service area eventually anchorage use public private electric vehicle owners additionally anchorage owned electric utility municipal light power intends install smart grid metering infrastructure pilot program year coupling system enhanced data collection systems municipality create stronger platform informed decision making future vision element connected involved citizens anchorages citizens connected multiple levels connected sense participate active community matters local state government second connected data generate share use outlined letter support partner code anchorage worked successfully municipal departments order use data new useful ways amats currently working multimodal trip planner hosted rideamigos includes smartphone ap piece technology enhanc e overall mobility community including people disabilities seniors milenials data consolidated available organizations use planning purposes smart city elements vision element architecture standards relates transportation anchorage amats maintains regional architecture turbo architecturetm turbo architecturetm supports fhwa rule fta national architecture policy transit projects vision element lowcost efficient secure resilient information communications technology vision element heart anchorages smart city challenge proposal developing ict concept operations architecture provide anchorage strategies practices advance information communications technology ict affordable adaptableanchorage ak smart city challenge ict concept operations architecture efficient secure resilient including integrated telecommunications platforms enterprise software storage visualization systems include ict contributes common operating platform inform city government decisionmaking ict infrastructure technologies services critical smart city ict consists unified communications integration telecommunications computers necessary enterprise software storage visualization systems enable users access store transmit manipulate information vision element smart land use anchorage recognizes land use transportation tightly intertwined established land uses metropolitan area constrained locations geographical features coastlines mountains stream corridors established land uses influenced travel patterns exist today understanding relationship distribution housing employment critical project future transportation demand geographical distribution land uses development densities site designs proximity complementary uses directly influence number length trips mode choice viability walking cycling attractiveness transit service travel origindestination patterns regional population growth projections dramatic population growth occurring matsu borough followed chugiakeagle river anchorage physical growth common interest jointly affecting municipality mat su borough jurisdictions house majority population employment state travel interactions economic interest argue collaboration fronts urban region continues grow pressure mounting land remaining anchorage development currently land use transportation considered anchorages land use plan map updated land use strategies considered spenard corridor strategic plan planners working development implementation plan transit oriented development transit supportive corridors risks risks involved ict concept operations architecture project minimal point technical policy institutional risks associated deployment vision meaningful public involvement project communication education critical components project municip al departments general public team ict concept operations architecture project team partners stakeholders includeanchorage ak smart city challenge ict concept operations architecture mayors office amats office emergency management anchorage police department anchorage fire department public transit office economic community development public works maintenance operations traffic department department health human services akdotpf national weather service center gis excellence university alaska anchorage anchorage economic development corporation anchorage community development authority chugiakbirchwodeagle river rural road service area native village eklutna municipal light power anchorage water wastewater utility solid waste services parks recreation information technology finance joint base elmendorf richardson matsu borough alaska railroad port anchorage code anchorage vride bike anchorage identified anchorage open public andor private partnerships order address priorities outlined vision public safety homelessness business excellence revitalized resilient neighborhoods municipal governance process found appendix b existing infrastructure ownership roads shared local state federal governments private entities signalized intersections managed municipality arterial network state managed traffic signals stateowned facilities state alaska owns heavily arterial streets freeways remaining roads owned municipality anchorage cases sections road owned entities indicative importance close intergovernmental cooperation collaboration ownership roads federal government occurs federal lands joint base elmendorfrichardson private roads mpo boundary owned residents use maintain surface transportation system includes freeway centerline miles expressway centerline miles arterial centerline miles collector centerline miles local street centerline miles bicycle lane centerline miles pedestrian system miles sidewalk trail system miles separated multiuse trails transit services people mover fixedroute bus service metropolitan area operated municipality anchorage public transit department bus service ranges minute headways weekday peak generally minutes hours includinganchorage ak smart city challenge ict concept operations architecture weekends service chugiakeagle river anchorage available eagle river connect monday friday valley mover public commuter service operates matsu borough anchorage valley mover offers round trips day mondayfriday shareduse mobility services anchorides provides demandresponse curb tocurb transportation service people disabilities prevent people mover fixedroute system senior citizens anchorage school district provides transportation students live miles school live routes designated hazardous walking eligible ride school bus vanpoling supported public transits share aride program contracted vride vanpols operation originate matsu borough carpoling anchorage area currently informal people use twitter craigslist zimride ridester erideshare carpol world mpo currently working project drastically improve carpoling scholpoling efforts state taxi service anchorage provided alaska yellow cab checker cab bikeshare available university alaska anchorage municipality looking partner university alaska anchorage expand carsharing anchorage additionally looking electric carsharing fleet able capitalize excess electrical generation capacity new natural gas power plant construction anchorage variety human service shuttles private shuttles operate anchorage allow general public ride transport clients students employees information communication technology ict anchorages smart city challenge proposal ict concept operations architecture intelligent transportation systems including transportation management centers field equipment smart grid infrastructure including electric vehicle charging infrastructureanchorage ak smart city challenge ict concept operations architecture vision element smart grid roadway electrification electric vehicles anchorage planning excess electrical generation capacity includes transitioning municipal fleets including buses electric vehicles process include installing charging stations municipal parking lots municipal light power utility service area eventually anchorage use public private electric vehicle owners data collection data collected thirtyseven municipal departments currently anchorage water wastewater utility hosts gis center excellence municipal maps aps gallery product center existing capacity center deals limited data center vision enterprise gis anchorage strategic resource sharing timely accurate reliable geographical information municipal departments public agencies public large anchorages ict concept operations architecture project identify lead additional project partners stakeholders order integrate data city collecting improve management operations existing policies currently policies place applicable proposed data collected shared anchorages ict concept operations architecture project application existing standards applicable time anchorages ict concept operations architecture project application performance measures performance measures ict concept operations architecture project defined metrics include increases mobility safety system efficiency economic vitality sustainability reductions congestion environmental impacts gaps service additional performance measures include anchorages f focus areas public safety homelessness business excellence revitalized resilient neighborhoods capacity municipality possesses technical capacity implement administer ict concept operations architecture projects funded usdot implemented accordance grant application master agreement applicable laws regulations sound management practicesanchorage ak smart city challenge ict concept operations architecture municipality eligible authorized state local law request receive dispense usdot funds execute administer federally funded projects fy annual list certifications assurances signed authorized official attorney additionally legal issues impact anchorages federal program municipality continues demonstrate ability match manage usdot grant funds cover cost increases operating deficits financially maintaining operating federally funded programs facilities anchorage conducts responds applicable audits outstanding financial issues impact anchorages federal program adequate financial management system place allowing grant balances tracked accurately resources anchorage mechanisms place leverage federal resources amats recently crowd sourcing meet local match requirement freight mobility study update currently underwayanchorage ak smart city challenge ict concept operations architecture appendix amats boundary mapknik arm turnagain armt r n g n r mk n k r northern lights boulevard abbot road omaley roadtudor roadlake otis parkwaydimond blvd seward highwayelm ore roadth avenueglen highwaymuldon road ineso ta drive rabbit creek road seward highwaysand lake rdeagle river rdold glenn hwyglen hwy hiland rd mileseagle river pm limited maintenance areanchorage co limited maintenance area census urbanized area boundaryamats boundaries moa boundary lakes parks military boundaries c h g c h e p r kj n b e e l e n r f r c h r n amats area boundaryexpanded census urbanized area boundaryanchorage ak smart city challenge ict concept operations architecture appendix b municipality anchorage governance process	12	innovations	rural,electric
+AK Anchorage	"CONTENTS 
+1 VISION ................................................................................................................................................... 1  
+2 POPULATION ......................................................................................................................................... 3  
+3 CHARACTERISTICS .................................................................................................................................. 3  
+4 SITE MAP ............................................................................................................................................... 4  
+5 APPROACH ............................................................................................................................................. 5  
+5.1 Vision Element #1: Urban Automation ..........................................................................................  5 
+5.2 Vision Element #2: Connected Vehicles ........................................................................................ 6  
+5.3 Vision Element #3: Intelligent, Sensor-Based Infrastructure .........................................................  6 
+5.4 Vision Element #4: Urban Analytics ...............................................................................................  8 
+5.5 Vision Element #5: User-Focused Mobility Services and Choices .................................................. 9  
+5.6 Vision Element #6: Urban Delivery and Logistics ......................................................................... 10 
+5.7 Vision Element #7: Strategic Business Models and Partnering Opportunities ............................  10 
+5.8 Vision Element #8: Smart Grid, Roadway Electrification, and Electric Vehicles ..........................  11 
+5.9 Vision Element #9: Connected, Involved Citizens ........................................................................ 11 
+5.10  Vision Element #10: Architecture and Standards ........................................................................ 11 
+5.11  Vision Element #11: Low-Cost, Efficient, Secure, and Resilient Information and Communications 
+Technology .............................................................................................................................................. 11 
+5.12  Vision Element #12: Smart Land Use ...........................................................................................  12 
+6 RISKS .................................................................................................................................................... 12 
+7 TEAM ................................................................................................................................................... 12 
+8 EXISTING INFRASTRUCTURE ................................................................................................................ 13 
+9 DATA COLLECTION ...............................................................................................................................  15 
+10 EXISTING POLICIES ...........................................................................................................................  15 
+11 EXISTING STANDARDS ..................................................................................................................... 15 
+12 PERFORMANCE MEASURES ............................................................................................................. 15 
+13 CAPACITY ......................................................................................................................................... 15 
+14 RESOURCES ..................................................................................................................................... 16 
+15 APPENDIX A: AMATS Boundary Map ...............................................................................................  17 
+16 APPENDIX B: Municipality of Anchorage Governance Process ........................................................  18 
+17 APPENDIX C: Letters of Support ...................................................................................................... 19 
+18 APPENDIX D: Organizational Information ........................................................................................  20ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+1 1 VISION 
+Anchorage has a new vision. To build a strong and vibrant Anchorage for everyone.  
+ 
+With leadership and support from Mayor Ethan Berkowitz, motivation is high to leverage 
+synergies between municipal systems as a means toward better management. We are confident 
+that Anchorage models the attributes of an ideal candidate for the Smart City Challenge. The 
+values that are guiding Anchorage’s  vision include:  
+ 
+Excellence:  Consistent delivery of quality work products that are data driven and results oriented. 
+Innovation:  Commitment to find thoughtful and creative solutions.  
+Talent:  Looking at one another and engaging outside resources for ideas and solutions.  
+Inclusion:  The community belongs to all who live here and must reflect that reality.  
+Initiative:  Willingness to engage in daring and difficult activities.  
+ 
+Anchorage’s  four priorities and challenges align with USDOT’ s twelve vision elements:  
+ 
+Priority  Challenge  Smart City Vision Element s 
+Public Safety  How can we improve public safety and 
+strengthen Anchorage neighborhoods?  
+  Urban Automation   
+ Connected Vehicles  
+ Intelligent, Sensor Based In frastructure  
+ User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Strategic Business Models & Partnering  
+ Connected, Involved Citizens  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+Homelessness  How can we eradicate homelessness and 
+improve the health of the community?   User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Strategic Business Models & Partnering  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+Business 
+Excellence  How can we facilitate a local government 
+focused on excellent customer service that 
+is fiscally responsible and efficient?   Urban Automation   
+ Connected Vehicles  
+ Intelligent, Sensor Based Infrastructure  
+ User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Urban Delivery & Logistics  
+ Strategic Business Models & Partnering  
+ Smart Grid, Roadway Electrification, & EVsANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+2  Connected, Involved Citizens  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+Revitalized and 
+Resilient 
+Neighborhoods  How can we comprehensively and 
+innovatively seek new ways to support 
+neighborhoods in adapting to both internal 
+and external social, economic, and 
+environmental pressures to emerge 
+stronger and more resourceful while 
+supporting existin g neighborhood 
+character?  
+  Urban Automation  
+ Connected Vehicles  
+ Intelligent, Sensor Based Infrastructure  
+ User -Focused Mobility Services & Choices  
+ Urban Analytics  
+ Urban Delivery & Logistics  
+ Strategic Business Models & Partnering  
+ Smart Grid, Roadway Electrification, & EVs  
+ Connected, Involved Citizens  
+ Architecture & Standards  
+ Low-Cost, Efficient, Secure, & Resilient ICT  
+ Smart Land Use  
+ 
+We know there are solutions that will lead us towards cultivating Anchorage’s vision. Key 
+elements include accessible, open data sharing to build transparency throughout the community, 
+enabling the public to help solve some of our challenges, and ultimately creating new 
+opportunities. Linking Information and Communications Technology (ICT) in various key 
+municipal service and infrastructure sectors, such as water, power, and transportation, will 
+enable better decision making and leverage municipal resources. GIS is a critical supporting 
+technology powering Anchorage’s vision, feeding all of  major munici pal systems . Anchorage ’s 
+Regional ITS (Intelligent Transportation Systems) Architecture Implementation Plan identifies 
+technology projects that are needed over the next 10 years, as identified by agency personnel, 
+including a multi-agency Traffic Operations Center and municipal support of the Alaska 511 
+traveler information system. Projects included in the ITS Architecture support the majority of the 
+Smart City Challenge vision elements. 
+Optimization of economic and fiscal cross-benefits to be derived from these plans and projects 
+will require a more holistic view. For example, sensors that monitor parking and traffic in real-
+time can also provide detection and monitoring of situations or events (e.g., water line 
+breakages or traffic) to assist Anchorage Water and Wastewater and Utility, with decision 
+support. Traffic detection camera images can be shared with Anchorage Police Department and 
+Alaska State Troopers in the event of accidents to assist with incident response. 
+Anchorage proposes to embark on a project that engages key municipal and state agencies to 
+develop an ICT Concept of Operations and Architecture. The ICT will establish the goals and 
+objectives in developing the larger vision for technology, information and data sharing, and aANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+3 work program that identifies tangible steps needed to achieve the USDOT’s  vision integration 
+and improve Anchorage’s capacity to make data driven decisions .  
+Anchorage is focused on results; we look forward to sharing our experience and success .  
+2 POPULATION 
+As the largest city in Alaska, Anchorage’s population of 251, 243 accounts for 40% of the state’s 
+population. Located in southcentral Alaska, Anchorage is the hub of the state’s communication, 
+transportation, military, health care, finance, and trade industries. These industries are 
+constantly improving and innovating by upgrading technologies, providing competitive services, 
+and offering new services. Anchorage is a modern city with a diverse population. 100 languages 
+are spoken in the Anchorage School District. Mountain View, a northeast Anchorage 
+neighborhood, boasts the most diverse census tract in all of America. Additionally, 100% of 
+Anchorage’s population resides  within the urbanized area.  
+3 CHARACTERISTICS  
+As a northern city, Anchorage is well known for its winter climate. However, our winter climate is 
+not the primary focus of this application. Our primary focus with this application is to build a 
+strong and 
+vibrant Anchorage for everyone. Anchorage’s public transit provider, People Mover 
+turned 41 years old in 2015. People Mover provides public transportation to the Anchorage, 
+Eagle River, Chugiak and Peters Creek areas which encompass 77 square miles. People Mover 
+maintains a fleet of 52 accessible, ADA compliant buses that travel over two million miles a year. 
+Seven days a week, People Mover operates 14 fixed routes around the Downtown transit center 
+and three satellite hubs. People Mover provides 4.1 million trips annually, with an average 
+weekday ridership of 14,297. Additionally, AnchorRIDES is a shared ride service providing ADA 
+transportation service to people with disabilities, seniors, and other contracted trips. 
+As a young and growing city , Anchorage is  a place for all ages where you can live close to work, 
+make a competitive salary , and have a plethora of options for entertainment and outdoor 
+activities.  Our partner, Anchorage Economic Development Corporation is leading the charge to 
+make Anchorage the #1 city in America to Live. Work. Play  by 2025. There are many things that 
+make this city an amazing place to call home; however to be the #1 city in th e nation to live, 
+work, and play, we must continually improve and invest. Therefore, Anchorage provides an 
+environment that is conducive to dem onstrating the proposed ICT Concept of Operations and 
+Architecture . 
+On May 5th, 2015, the people of Anchorage elected Ethan Berkowitz to be their next mayor, and 
+to lead Alaska’s largest city into its next centennial.  Within two weeks, Mayor-elect Berkowitz 
+announced a transition team to create a blueprint for a safe, secure, and strong Anchorage. The 
+charge was to create a forward thinking transition report that recognized the unique challengesANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+4 and opportunities we have, while identifying the steps his administration could take to more 
+effectively address the critical issues that face Anchorage. He assembled a team of three co-
+chairs, ten sub-committee co-chairs, along with over 125 community and business leaders, 
+practitioners and end-users, organized into five issues specific working groups. Each committee 
+hosted 18 to 25 people, and the rosters were comprised of a diverse group of participants, from 
+a wide range of backgrounds and cultures. The five committees were tasked with examining 
+Mayor- elect Berkowitz’s key areas of concerns, and developing a collaborative and 
+comprehensive approach to addressing the specific area of focus. Four focus areas included 
+Public Safety, Homelessness, Business Excellence, and Revitalized and Resilient Neighborhoods. 
+To ensure even greater public participation, Mayor-elect Berkowitz hosted four town hall 
+meetings and a community diversity celebration over a two-week period in June. These public 
+events drew almost 1,000 people combined, and gave Anchorage residents an opportunity to 
+share their thoughts on the future with the next mayor. By the end of June, each committee had 
+produced a final draft of their recommendations arising from the presentations they’d received 
+from the outgoing administration, committee discussions and public conversations. As outlined 
+in Mayor Berkowitz cover letter Anchorage is focused, highly motivated, and employs the 
+continuity of committed leadership and capacity to carry out the demonstration throughout the 
+period of performance.  
+Anchorage faces fiscal headwinds from declining oil prices and military downsizing, and 
+recognizes the need to become resilient through economic diversification; strategic 
+development and redevelopment efforts of key neighborhoods- particularly our struggling 
+downtown; and support entrepreneurial activity. A commitment to integrating the sharing 
+economy is a natural fit as Anchorage diversifies its economy. Anchorage is a 2016 Smart Growth 
+America  grantee, as a result, technical assistance will focus on a range of issues including transit-
+oriented development, Complete Streets, smart growth zoning, economic development and 
+fiscal health, parking management and regional planning for small communities, among other 
+topics. 
+As a Bloomberg Philanthropies “ What Works City ” grantee, Anchorage has publicly committed to 
+establish and improve its open data practices in order to make the city’s data more accessible to 
+city managers and the public, engage residents around government priorities and services, and 
+increase transparency and accountability. By publishing high-quality city data, Anchorage can, 
+fuel innovation and entrepreneurship while making it easier for the public to engage and access 
+government services. 
+4 SITE MAP 
+The site for Anchorage’s ICT Concept of Operations and Architecture will reflect the MPO 
+boundaries. Anchorage Metropolitan Area Transportation Solutions (AMATS) is the MPO for theANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+5 urbanized area as designated by Governor Jay Hammond on April 8, 1976. Additionally, in 1997 
+the U.S. Secretary of Transportation designated AMATS as a Transportation Management Area 
+(TMA). It is AMATS’ responsibility to meet the requirements of the FAST ACT for the 
+Metropolitan Planning Area (MPA). These requirements call for the development of a 
+multimodal transportation system that integrates with land use plans, reflects the 3C planning 
+process, and meets Federal and State planning requirements. The site map is located in 
+Appendix A. 
+5 APPROACH 
+As it relates to transportation, the twelve USDOT vision elements are woven into many of 
+Anchorage’s adopted Transportation Plans including: the Interim 2035 Metropolitan 
+Transportation Plan, Anchorage 2020 Comprehensive Plan, the Human Service Coordinated 
+Transportation Plan, the Congestion Management Process, the Pedestrian Plan, the Bicycle Plan, 
+People Mover Blueprint, and the Freight Mobility Study. The Smart City Challenge provides 
+Anchorage with an opportunity to holistically integrate the technology solutions that were 
+recommended for implementation in federally funded planning efforts listed above. In reviewing 
+the trends from Beyond Traffic 2045 for the ICT Concept of Operations and Architecture 
+proposal, we recognize the significance of Secretary Foxx’s sentiments regarding the trends. 
+Therefore, Anchorage is committing to working towards the three strategies outlined below.  
+     1. Take better care of our legacy transportation systems. 
+     2. Build what is new and necessary. 
+     3. Use technologies and better design approaches that will allow us to maximize the use of 
+our old and new transportation assets.   
+What follows highlights how Anchorage is currently meeting the intent of the twelve visions or is 
+planning to integrate the visions as part of the ICT Concept of Operations and Architecture. 
+TECHNOLOGY ELEMENTS 
+5.1 Vision Element #1: Urban Automation 
+Anchorage recognizes the ability of automated transportation to enhance safety, mobility, and 
+accessibility, equity, and the environment. Examples of automated transportation planned for 
+the Anchorage area includes: 
+Traffic Operations Center (TOC) : There has been significant discussion about establishing a 
+transportation operation center in the Anchorage area. There is currently a multi-agency group 
+looking at what TOC functions are needed and how best to meet those needs. The group will 
+also assess the configuration of the TOC, with options ranging from a brick and mortar building 
+to a completely virtual TOC. When that work is completed, the recommendations will need to be 
+implemented. There will likely be multiple projects starting in the near term and extending 
+beyond to implement the recommendations.ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+6 Traffi c Signal Controller Upgrade : The existing traffic signal controllers are relatively old. The 
+features and capabilities of the controllers are constrained because of this. There is a current 
+effort to upgrade signal controllers. This effort will continue in the near-term.   
+5.2 Vision Element #2: Connected Vehicles 
+The opportunity to utilize connected infrastructure in order to improve safety, increase mobility, 
+and achieve environmental gains are of great interest to Anchorage. Efficient, real-time, 
+responsive mobility solutions have to ability to positively impact our community by reducing 
+congestion and by providing valuable transportation data for planners and operators. Automated 
+vehicles 
+and vehicles connected to each other and to infrastructure will be upon us soon, and 
+Anchorage must prepare. Examples of connected infrastructure planned for the Anchorage area 
+includes: 
+Transit Signal Priority (TSP):  The Municipality  and its Public Trans it Department piloted TSP 
+systems on routes 7 and 9 within Anchorage . TSP at additional locations will help the 
+Municipality’s transit provider to achieve and maintain on -time performance. In turn this will 
+reduce travel time, making transit more favorable to the public. TSP may also assist with 
+emergency response during disasters for evacuation, triage, etc. Further implementation of TSP 
+is on -hold until the traffic signal controller upgrade project is complete.  
+Signal Priority for Maintenance Vehicles:  Transit vehicles have the ability to request priority at 
+traffic signals using on-board systems. Allowing maintenance vehicles such as snow plows the 
+same ability allows for maintenance work to be completed more quickly and therefore cause 
+fewer disruptions to traffic flow. This is particularly important for snow plows to allow them to 
+proceed on their routes as expeditiously as possible. The usage of signal priority systems could 
+also include automatic vehicle location (AVL) capabilities and turn-signal linkage. 
+Currently, neither the Municipality nor the State of Alaska have plans to build roadside 
+infrastructure that can connect directly to vehicles (e.g., road signs embedded with ability to 
+communicate with private vehicles). As a result of this application, the Municipality/State of 
+Alaska may elect to conduct a cost/benefit analysis, including maintenance costs, to determine if 
+deployment of this technology is warranted. The connected vehicle environment is not included 
+in the current ITS Architecture update; however, MPO staff is researching how to include it in the 
+2040 Metropolitan Transportation Plan Update. 
+5.3 Vision Element #3: Intelligent, Sensor-Based Infrastructure 
+Cameras and sensors can be used by multiple Departments for a variety of purposes. With 
+permissions granted, and given proper controls for privacy (e.g., real-time traffic cameras can be 
+used by Fire and Police to assess incidents and determine appropriate levels of response; parking 
+sensors/cameras can assist water utilities with detection of water main breaks; transit center 
+security cameras can be connected to Police for incident monitoring/response.) Multi-ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+7 department/agency agreements should be identified up-front, before technologies are 
+implemented, to keep implementation costs down. Examples of Intelligent, Sensor-Based 
+Infrastructure planned for the Anchorage area includes: 
+Bicycle Detection and Warnings:  The adopted Bicycle Plan includes an Action Item 
+Recommendation to consider visual or motion detection as options for detecting bicycles at 
+signalized intersections where a high level of bicycle use exists or is anticipated. This strategy can 
+include camera, radar, or other detection. The strategy can be used to detect bicycles as input to 
+the traffic signal controller as well as providing warnings to drivers of motorized vehicles of the 
+presence of bicyclists through means of dynamic message signs, or flashing warning signs. 
+Closed Circuit Television (CCTV):  CCTV provides agencies, operators and the public with real-time 
+images of traffic, and incidents that occur on regional roadways. Anchorage Police Department 
+and Anchorage Fire Department have specifically voiced their interest in an expansion of camera 
+coverage. Camera images could also help Maintenance staff in making decisions regarding their 
+operations. Images can be used to verify reports from the field, and to determine the type of 
+equipment needed to treat injured persons and remove accidents and/or debris from the 
+roadway. There are cameras currently in place within the Municipality. This effort would expand 
+the coverage
+ of cameras in the Municipality. 
+Parkin
+g Space Sensors:  The Municipality is planning to implement a new parking management 
+system. 
+This system will be able to provide parking occupancy and availability information so 
+travelers will know where parking spaces are available. It will also include wayfinding features to 
+provide travelers with information on how to get to the available spaces. This project is in mid-
+term because the parking revenue control system has to be updated first. It is envisioned that 
+information will be displayed on signs along the streets and on a traveler information website. 
+Highway-Rail Intersection (HRI) Warnings:  It is envisioned that the Municipality will implement 
+HRI Warning systems located near highway-rail intersections. This will improve driver awareness 
+of oncoming trains and improve safety at HRIs. Railroad information collected from the Alaska 
+Railroad Corporation (ARRC) wayside equipment and detectors would provide the needed data 
+for this feature. Advanced train detection could collect data such as train speed, location, arrival 
+times, and crossing delays. By collecting and distributing this information to travelers and 
+agencies, motorists could choose their routes and times of travel to minimize delays caused by 
+rail crossings. Dynamic message signs will be the primary mechanism for providing this 
+information, although it could also be displayed on a traveler information website and through 
+smartphone apps.  
+Cameras and sensors for one purpose can be used by other Departments for other purposes, 
+with permissions granted, and given proper controls for privacy (e.g., real-time traffic cameras 
+can be used by Fire and Police to assess incidents and determine appropriate levels of response;ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+8 parking sensors/cameras can assist water utilities with detection of water main breaks; transit 
+center security cameras can be connected to Police for incident monitoring/response.) Multi-
+department/agency agreements should be identified up-front, before technologies are 
+implemented, to keep implementation costs down. 
+INNOVATIVE APPROACHES TO URBAN TRANSPORTATION ELEMENTS 
+5.4 Vision Element #4: Urban Analytics 
+Anchorage is a data-rich environment. Thirty seven Municipal departments are collecting a variety of 
+data that could be integrate that data in order to address our complex urban challenges, 
+performance measures, improve services and current operations. Examples of Urban Analytics in 
+the Anchorage area includes: 
+Data Archive Investigation to Support Multi-Agency Data Sharing:  Currently, agencies in the region 
+maintain their own data repositories. This makes it convenient for internal operations in terms of 
+accessing historic data within one’s ag ency, but not as convenient for obtaining data from others. 
+The aim of Data Archive service area is to support multi-agency data sharing. By creating a 
+central Archive Data Services system that different agencies can contribute to, access to a more 
+abundant amount of historic data becomes streamlined and readily attainable for the 
+participating agencies. There is currently no consensus on the organization or management 
+approach to a centralized data archive. The first step would be to conduct a study on the specific 
+needs for data archiving and how best to meet those needs. This study should consider various 
+types of data to be archived, the priority for archiving each type, where such an archive would 
+best fit among the regional agencies in terms of ownership and operations, and the potential 
+policies and procedures connected to the archive. (A second effort to implement the archive is 
+suggested in the midterm.) 
+Common Geographic Information System (GIS):  The Municipality currently has a common GIS 
+platform. All departments and divisions have access to that platform. There will continue to be 
+additional needs for GIS layers and applications. These efforts will follow the greatest needs of 
+the departments and divisions. 
+Shared Traffic Database:  Within the overall data archive, traffic data shared and easily retrieved 
+traffic data was noted by many agencies as a need. An initial focus of a regional data archive 
+should be on implementing a shared database for traffic data. This will reduce the burden on 
+agencies to collect data or search for data that already exists somewhere within the Municipality . 
+Part of this
+ effort should also investigate geo-coding traffic data so it can be displayed on a GIS 
+layer to graphically display the information. 
+Wi-Fi/Bluetooth Detection for Travel Time:  Wi-Fi and Bluetooth detectors can be used to 
+determine travel times on the roadway network. This system could provide high quality travelANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+9 time for the purpose of modifying traffic signal timing, for performance monitoring, and to post 
+travel times to the public on the web. This technology exists and is cost-effective to implement. 
+A first step would be to design and implement a pilot study to determine how well it works to 
+support traffic signal timing changes, and (if successful) how best to expand the system.   
+Road Weather Information Systems (RWIS) Data Sharing:  AKDOT&PF currently operates RWIS in 
+the Municipality and the surrounding area. A mechanism to share this information with 
+Maintenance staff within the Municipality would help in determining the most effective winter 
+maintenance 
+actions. 
+5.5 Vision Element #5: User-Focused Mobility Services and Choices 
+Anchorage’s Travel Options programs encourage residents, commuters, and visitors to get out of 
+their private automobile for more trips and provide opportunities for them to walk, bike, share 
+rides, and take transit. These programs are coordinated efforts - between AMATS and Public 
+Transit, the business community, universities and other institutions, and area nonprofits - that 
+provide education, information, incentives, and other resources to encourage alternatives to 
+driving alone. Anchorage is becoming more sustainable, encouraging different modes of travel, 
+implementing the Bicycle Plan and Pedestrian Plan, and supporting Integrated Mobility through 
+use of a new Smart Phone app for multi-modal trip planning. 
+Multi-modal Trip Planner:  AMATS is currently working on a multi-modal trip planner hosted by 
+RideAmigos that includes a smartphone app. This piece of technology will enhance the overall 
+mobility for
+ the community including people with disabilities, seniors, and Millennials. The data 
+will be consolidated and available for other organizations to use for their planning purposes.  
+Traveler Information Web Site:  There are several real -time data sources either available or 
+proposed that would be valuable to display on a traveler information website. CCTV camera 
+images are some of the most popular types of traveler information. The existing and any planned 
+CCTV images, either full motion or stills, could be displayed. In addition, information on travel 
+times from the Wi-Fi/Bluetooth detectors could also be displayed. Information on incidents, 
+planned construction closures, or special events that affect traffic could also be included. As 
+additional real-time or planned data was available, it could be added to the website. 
+Intelligent Transit Stops:  Ranges from kiosks, which show static transit schedules, to real-time 
+information on schedules, locations of transit vehicles, arrival time of the vehicle, and alternative 
+routes and modes. This is shown in the mid-term because Public Transportation will be tied up 
+with existing projects and determining their technology refresh in the near term. 
+Fare Payment:  Customers and the Public Transit Department would like to provide a mechanism 
+for customers to recharge their transit accounts on-line and/or through a smartphone app. AANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+10 project to investigate the best mechanisms for Anchorage would be a first step followed by an 
+implementation projec t. 
+Integration with Alaska 511:  The existing condition entry system that AKDOT&PF has connects 
+directly to their 511 system and the information can be shared among a variety of agencies. 
+Authorized personnel in the Municipality such as police, fire, and traffic operators, can input and 
+retrieve traffic information and roadway conditions directly into the statewide database. 
+Personnel could enter and retrieve data through use of mobile devices as well. Once entered, 
+the information is available for everyone to see simultaneously, reducing the time needed to 
+report this information to individual agencies or to the public. Currently Municipality has a 
+Memorandum of Agreement with AKDOT&PF to do this. The Anchorage Police Department 
+recently agreed to an approach where incident information is directly fed to AKDOT&PF through 
+its Nixel feed. 
+Parking Management:  The Municipality is planning to implement a new parking management 
+system. 
+This system will be able to provide parking occupancy and availability information so 
+travelers will know where parking spaces are available. It will also include wayfinding features to 
+provide travelers with information on how to get to the available spaces. This project is in mid-
+term because the parking revenue control system has to be updated first. It is envisioned that 
+information will be displayed on signs along the streets and on a traveler information website.  
+5.6 Vision Element #6: Urban Delivery and Logistics 
+Anchorage is the gateway connection to the world for Alaska; freight shipments from elsewhere 
+sustain the state and local economies. Modernizing the Port of Anchorage is essential for 
+accommodating larger vessels and adapting to changing requirements and technologies.  Trucks 
+of all sizes distribute goods that arrive and depart by air, sea, and rail carrying freight to, from 
+and through the Anchorage metropolitan area and the region beyond. Freight distribution is an 
+integral part of the daily economic activity of the Municipality, freight travel patterns affect 
+traffic and are affected by the efficiency of the road network.  
+An update to the Freight Mobility Plan is currently under way. This document will examine 
+innovative solutions that effectively and efficiently move goods – including food, energy, and 
+manufactured goods, the use data or deploying technology to create opportunities for a more 
+efficient supply chain approach that delivers safer logistics management, improved on-time 
+pickups and delivery, improved travel time reliability, reduced fuel consumption, and reduced 
+labor and vehicle maintenance costs. 
+5.7 Vision Element #7: Strategic Business Models and Partnering Opportunities 
+Anchorage welcomes this opportunity to leverage creative, strategic partnerships that will draw 
+in stakeholders and maximize resources and investments. Our partners include municipal 
+departments; the Mat-Su Borough; the general public; the Anchorage Economic DevelopmentANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+11 Corporation; the Anchorage Community Development Authority; Alaska Native corporations and 
+tribal groups; the Alaska Railroad; Code for Anchorage; the University of Alaska Anchorage; and 
+others.  
+5.8 Vision Element #8: Smart Grid, Roadway Electrification, and Electric Vehicles 
+While Electric Vehicles were not identified in the ITS Architecture update; the construction of a 
+state- of-the-art natural gas power plant, coupled with increased energy efficiency measures in 
+the municipality creates the potential for excess electrical generation capacity that clears the 
+way for reduced costs for electric vehicle fleets.   
+With this additional capacity available, Anchorage plans to transition our Municipal fleets, 
+including buses, to electric vehicles. This process would include installing charging stations in 
+Municipal parking lots, within our Municipal Light & Power utility service area, and eventually 
+throughout all of Anchorage for use by all public and private electric vehicle owners.  
+Additionally, the Anchorage owned electric utility, Municipal Light & Power, intends to install a 
+Smart Grid metering infrastructure pilot program within the next year. Coupling this system with 
+enhanced data collection systems across the Municipality would create an even stronger 
+platform for informed decision making in the future.   
+5.9 Vision Element #9: Connected, Involved Citizens 
+Anchorage’s citizens are connected on multiple levels. First they are connected in the sense they 
+participate and are active within the community on matters of local and state government. 
+Second, they are connected by the data they generate, share, and use. As outlined in their letter 
+of support, our partner Code for Anchorage has worked successfully with several Municipal 
+departments in order to use their data in new and useful ways. AMATS is currently working on a 
+multi-modal trip planner hosted by RideAmigos that includes a smartphone app. This piece of 
+technology will enhanc
+e the overall mobility for the community including people with disabilities, 
+seniors, and Millennials. The data will be consolidated and available for other organizations to 
+use for their planning purposes.    
+SMART CITY ELEMENTS 
+5.10 Vision Element #10: Architecture and Standards 
+As it relates to transportation in Anchorage, AMATS maintains the Regional ITS Architecture and 
+Turbo Architecture™ . The Turbo Architecture™ supports FHWA Rule 940 and FTA National ITS 
+Architecture Policy on Transit Projects.  
+5.11 Vision Element #11: Low-Cost, Efficient, Secure, and Resilient Information and 
+Communications Technology 
+This vision element is the heart of Anchorage’s Smart City Challenge proposal. Developing an ICT 
+Concept of Operations and Architecture will provide Anchorage with strategies and practices 
+that advance information and communications technology (ICT) that is affordable, adaptable,ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+12 efficient, secure and resilient, including integrated telecommunications platforms, enterprise 
+software, storage, and visualization systems. This will include ICT that contributes to one 
+common operating platform to inform city government decision-making. ICT infrastructure, 
+technologies, and services are a critical part of a Smart City. ICT consists of unified 
+communications and the integration of telecommunications, computers as well as necessary 
+enterprise software, storage, and visualization systems, which enable users to access, store, 
+transmit, and manipulate information.  
+5.12 Vision Element #12: Smart Land Use 
+Anchorage recognizes that land use and transportation are tightly intertwined.  Established land 
+uses in the metropolitan area are constrained in many locations by geographical features such as 
+coastlines, mountains, and stream corridors. These established land uses have influenced the 
+travel patterns that exist today.  Understanding the relationship between the distribution of 
+housing and employment is critical to project future transportation demand. The geographical 
+distribution of land uses, development densities, site designs, and proximity to complementary 
+uses directly influence the number and length of trips, mode choice, viability of walking and 
+cycling, the attractiveness of transit service, and travel origin-destination patterns.  
+The regional population growth projections show the most dramatic population growth 
+occurring in the Mat-Su Borough (119%), followed by Chugiak-Eagle River (74%), and Anchorage 
+(15%). Physical growth and common interest are jointly affecting the Municipality and the Mat-
+Su Borough. The two jurisdictions together house the majority of the population and 
+employment in the state. Travel interactions and economic interest argue for collaboration on 
+many fronts. As the urban region continues to grow, pressure is mounting on the amount of land 
+remaining in Anchorage for development.  
+Currently, land use and transportation are being considered together as Anchorage’s  Land Use 
+Plan Map is being updated and land use strategies are being considered as part of the Spenard 
+Corridor Strategic Plan. Planners are working together toward development of an 
+implementation plan for Transit Oriented Development along Transit Supportive Corridors. 
+6 RISKS 
+Risks involved in the ICT Concept of Operations and Architecture project are minimal. At this 
+point there are no technical, policy, or institutional risks associated with the deployment vision. 
+Meaningful public involvement, project communication, and education will be critical 
+components of the project for all Municip al Departments and the general public.  
+7 TEAM 
+ICT Concept of Operations and Architecture project team, partners, and stakeholders will 
+include:ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+13 The Mayor’s Office• AMATS• Office of Emergency Management• Anchorage Police 
+Department• Anchorage Fire Department• Public Transit• Office of Economic and Community 
+Development • Public Works  Maintenance and Operations • Traffic Department• Department of 
+Health and Human Services• AKDOT&PF• National Weather Service• the Center for GIS 
+Excellence• University of Alaska Anchorage• Anchorage Economic Development Corporation• 
+Anchorage Community Development Authority • Chugiak-Birchwood-Eagle River Rural Road 
+Service Area • Native Village of Eklutna • Municipal Light and Power • Anchorage Water and 
+Wastewater Utility • Solid Waste Services • Parks and Recreation •Information Technology • 
+Finance • Joint Base Elmendorf and Richardson • the Mat-Su Borough • the Alaska Railroad • the 
+Port of Anchorage • Code for Anchorage • vRide• Bike Anchorage• and others as identified •  
+Anchorage is open to public and/or private partnerships in order to address the four priorities 
+outlined as part of our vision : Public Safety, Homelessness, Business Excellence, and Revitalized 
+and Resilient Neighborhoods. The Municipal governance process is found in Appendix B .  
+8 EXISTING INFRASTRUCTURE 
+Ownership of roads is shared by local, state, and federal governments and private entities. There 
+are 277 signalized intersections managed by the Municipality on its arterial network and State-
+managed traffic signals on State-owned facilities. The State of Alaska owns most of the most 
+heavily used arterial streets and freeways. The remaining roads are owned by the Municipality of 
+Anchorage
+. In some cases, sections of the same road are owned by both entities and are 
+indicative of the importance of close intergovernmental cooperation and collaboration. 
+Ownership of roads by the federal government occurs on federal lands, such as Joint Base 
+Elmendorf-Richardson. Some private roads within the MPO boundary are owned by residents 
+who use and maintain them. The surface transportation system includes: 
+ 
+Freeway: 51 Centerline Miles 
+Expressway: 2 Centerline Miles 
+Arterial: 174 Centerline Miles 
+Collector: 149 Centerline Miles 
+Local Street: 1,130 Centerline Miles 
+Bicycle Lane: 13 Centerline Miles 
+Pedestrian System: 521 miles of sidewalk 
+Trail System: 243 miles of separated multi-use trails 
+  
+Transit services:  
+People Mover is the fixed-Route bus service in the metropolitan area operated by the 
+Municipality of Anchorage Public Transit Department. Bus service ranges from 30-60 minute 
+headways during the weekday peak and generally every 60 minutes for all other hours includingANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+14 weekends. Service between Chugiak-Eagle River and Anchorage is available on Eagle River 
+Connect, Monday through Friday. 
+ 
+Valley Mover is a public commuter service that operates between the Mat-Su Borough and 
+Anchorage. Valley Mover offers 14 round trips a day,  Monday-Friday.  
+Shared-use mobility services:  
+AnchorRIDES provides demand-response, curb- to-curb transportation service to people with 
+disabilities that prevent them from using People Mover (fixed-route system) and senior citizens.  
+ 
+The Anchorage School District provides transportation for students who live more than 1.5 miles 
+from their school or who live along routes designated as hazardous for walking are eligible to 
+ride a school bus.  
+ 
+Vanpooling is supported by Public Transit’s Share -A-Ride program and contracted by vRide. Of 
+the 56 vanpools in operation, 53 originate from the Mat-Su Borough. 
+Carpooling with in the Anchorage area is currently informal. People use Twitter, Craigslist, 
+Zimride, Ridester, erideshare, and carpool world. The MPO is currently working on a project that 
+will drastically improve carpooling and schoolpooling efforts across the state.   
+ 
+Taxi service in Anchorage is provided by Alaska Yellow Cab and Checker Cab. 
+ 
+Bikeshare is available through the University of Alaska Anchorage. 
+ 
+The Municipality is looking to partner with the University of Alaska Anchorage to expand 
+carsharing throughout Anchorage. Additionally, we are looking at an electric carsharing fleet to 
+be able to capitalize on the excess electrical generation capacity from the new natural gas power 
+plant under construction in Anchorage.  
+ 
+A variety of human service shuttles and private shuttles operate within Anchorage. Some allow 
+the general public 
+to ride, while others only transport their clients, students, or employees. 
+ 
+Information and communication technology (ICT):  
+Anchorage’s Smart City Challenge proposal is for an ICT Concept of Operations and Architecture.  
+Intelligent Transportation Systems (ITS) including transportation management centers and field 
+equipment:  
+  
+Smart Grid Infrastructure including electric vehicle charging infrastructure:ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+15 As part of Vision Element #8: Smart Grid, Roadway Electrification, and Electric Vehicles 
+Anchorage is planning for excess electrical generation capacity. This includes transitioning our 
+Municipal fleets, including buses, to electric vehicles. This process would include installing 
+charging stations in Municipal parking lots, within our Municipal Light & Power utility service 
+area, and eventually throughout all of Anchorage for use by all public and private electric vehicle 
+owners.  
+9 DATA COLLECTION 
+There is data being collected by the thirty-seven Municipal departments. Currently, the 
+Anchorage Water and Wastewater Utility hosts the GIS Center for Excellence. The Municipal 
+Maps and Apps  gallery is a product the Center; at its existing capacity the Center deals with a 
+limited amount of data. The Center has a vision for Enterprise GIS for Anchorage that is a 
+strategic resource for sharing of timely, accurate, and reliable geographical information for all 
+municipal departments, public agencies, and the public at large. Anchorage’s ICT Concept of 
+Operations and Architecture project will identify the lead, additional project partners and 
+stakeholders in order to integrate the data that the city is already collecting to improve 
+management and operations.  
+10 EXISTING POLICIES 
+Currently there are not policies in place applicable to the proposed data to be collected and 
+shared as part of Anchorage’s ICT Concept of Operations and Architecture project application.  
+11 EXISTING STANDARDS 
+Not applicable at the time of Anchorage’s ICT Concept of Operations and Architecture project 
+application.  
+12 PERFORMANCE MEASURES 
+Performance measures for the ICT Concept of Operations and Architecture project have yet to 
+be defined. Metrics could include increases in mobility, safety, system efficiency, economic 
+vitality, and sustainability; and reductions in congestion, environmental impacts, and gaps in 
+service. Additional performance measures should include Anchorage’s f our focus areas: Public 
+Safety, Homelessness, Business Excellence, and Revitalized and Resilient Neighborhoods. 
+13 CAPACITY 
+The Municipality possesses the Technical Capacity to implement and administer the ICT Concept 
+of Operations and Architecture. Projects funded by the USDOT are implemented in accordance 
+with the grant application, Master Agreement, and all applicable laws and regulations, using 
+sound management practices.ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+16 The Municipality is eligible and authorized under state and local law to request, receive, and 
+dispense USDOT funds and to execute and administer federally funded projects. FY 2015 Annual 
+List of Certifications and Assurances were signed by the authorized official and attorney.  
+Additionally, there are no legal issues that have impact on Anchorage's federal program. The 
+Municipality continues to demonstrate its ability to match and manage USDOT grant funds; 
+cover cost increases and operating deficits while financially maintaining and operating federally 
+funded programs and facilities. Anchorage conducts and responds to applicable audits and there 
+are no outstanding financial issues that would impact Anchorage's federal program. An adequate 
+financial management system is in place, allowing grant balances to be tracked accurately. 
+14 RESOURCES 
+Anchorage has several mechanisms in place to leverage its Federal resources. AMATS recently 
+used Crowd Sourcing to meet the local match requirement for the Freight Mobility Study Update 
+that is currently underway.ANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+17 15 APPENDIX A: AMATS Boundary MapKnik  Arm
+Turnagain  ArmT u r n a g a i n   A r mK n i k   A r m
+NORTHERN  LIGHTS  BOULEVARD
+ABBOTT  ROAD
+O'MALLEY ROADTUDOR ROADLAKE OTIS PARKWAYDIMOND  BLVD
+SEWARD  HIGHWAYELM
+ORE  
+ROAD5TH AVENUEGLENN  HIGHWAYMULDOON ROAD
+M
+INNESO
+TA  
+DRIVE
+RABBIT  CREEK  ROAD
+SEWARD HIGHWAYSAND LAKE RDEAGLE RIVER RDOLD GLENN HWYGLENN HWY
+HILAND RD
+0 2 4 1
+MilesEagle River PM-10 Limited Maintenance AreaAnchorage CO Limited Maintenance Area
+2010 Census Urbanized Area BoundaryAMATS Boundaries
+MOA Boundary
+Lakes
+Parks
+Military Boundaries
+C h u g a c h   S t a t e   P a r kJ o i n t  B a s e  E l m e n d o r f - R i c h a r d s o n
+AMATS Area BoundaryExpanded 2010 Census Urbanized Area BoundaryANCHORAGE, AK SMART CITY CHALLENGE 
+ICT CONCEPT OF OPERATIONS AND ARCHITECTURE 
+18 16 APPENDIX B: Municipality of Anchorage Governance Process"	contents vision population characteristics site map approach vision element urban automation vision element connected vehicles vision element intelligent sensorbased infrastructure vision element urban analytics vision element userfocused mobility services choices vision element urban delivery logistics vision element strategic business models partnering opportunities vision element smart grid roadway electrification electric vehicles vision element connected involved citizens vision element architecture standards vision element lowcost efficient secure resilient information communications technology vision element smart land use risks team existing infrastructure data collection existing policies existing standards performance measures capacity resources appendix amats boundary map appendix b municipality anchorage governance process appendix c letters support appendix organizational information anchorage ak smart city challenge ict concept operations architecture vision anchorage new vision build strong vibrant anchorage leadership support mayor ethan berkowitz motivation high leverage synergies municipal systems means better management confident anchorage models attributes ideal candidate smart city challenge values guiding anchorages vision include excellence consistent delivery quality work products data driven results oriented innovation commitment find thoughtful creative solutions talent looking engaging outside resources ideas solutions inclusion community belongs live reflect reality initiative willingness engage daring difficult activities anchorages priorities challenges align usdot vision elements priority challenge smart city vision element public safety improve public safety strengthen anchorage neighborhoods urban automation connected vehicles intelligent sensor based frastructure user focused mobility services choices urban analytics strategic business models partnering connected involved citizens architecture standards lowcost efficient secure resilient ict smart land use homelessness eradicate homelessness improve health community user focused mobility services choices urban analytics strategic business models partnering architecture standards lowcost efficient secure resilient ict smart land use business excellence facilitate local government focused excellent customer service fiscally responsible efficient urban automation connected vehicles intelligent sensor based infrastructure user focused mobility services choices urban analytics urban delivery logistics strategic business models partnering smart grid roadway electrification evsanchorage ak smart city challenge ict concept operations architecture connected involved citizens architecture standards lowcost efficient secure resilient ict smart land use revitalized resilient neighborhoods comprehensively inovatively seek new ways support neighborhoods adapting internal external social economic environmental pressures emerge stronger resourceful supporting existin g neighborhood character urban automation connected vehicles intelligent sensor based infrastructure user focused mobility services choices urban analytics urban delivery logistics strategic business models partnering smart grid roadway electrification evs connected involved citizens architecture standards lowcost efficient secure resilient ict smart land use know solutions lead cultivating anchorages vision key elements include accessible open data sharing build transparency community enabling public help solve challenges ultimately creating new opportunities linking information communications technology ict key municipal service infrastructure sectors water power transportation enable better decision making leverage municipal resources gis critical supporting technology powering anchorages vision feeding major munici pal systems anchorage regional intelligent transportation systems architecture implementation plan identifies technology projects needed years identified agency personnel including multiagency traffic operations center municipal support alaska traveler information system projects included architecture support majority smart city challenge vision elements optimization economic fiscal crosbenefits derived plans projects require holistic view example sensors monitor parking traffic real time provide detection monitoring situations events eg water line breakages traffic assist anchorage water wastewater utility decision support traffic detection camera images shared anchorage police department alaska state troopers event accidents assist incident response anchorage proposes embark project engages key municipal state agencies develop ict concept operations architecture ict establish goals objectives developing larger vision technology information data sharing anchorage ak smart city challenge ict concept operations architecture work program identifies tangible steps needed achieve usdots vision integration improve anchorages capacity data driven decisions anchorage focused results look forward sharing experience success population largest city alaska anchorages population accounts states population located southcentral alaska anchorage hub states communication transportation military health care finance trade industries industries constantly improving innovating upgrading technologies providing competitive services offering new services anchorage modern city diverse population languages spoken anchorage school district mountain view northeast anchorage neighborhood boasts diverse census tract america additionally anchorages population resides urbanized area characteristics northern city anchorage known winter climate winter climate primary focus application primary focus application build strong vibrant anchorage anchorages public transit provider people mover turned years old people mover provides public transportation anchorage eagle river chugiak peters creek areas encompass square miles people mover maintains fleet accessible ada compliant buses travel million miles year seven days week people mover operates fixed routes downtown transit center satellite hubs people mover provides million trips annually average weekday ridership additionally anchorides shared ride service providing ada transportation service people disabilities seniors contracted trips young growing city anchorage place ages live close work competitive salary plethora options entertainment outdoor activities partner anchorage economic development corporation leading charge anchorage city america live work play things city amazing place home city th e nation live work play continually improve invest anchorage provides environment conducive dem onstrating proposed ict concept operations architecture th people anchorage elected ethan berkowitz mayor lead alaskas largest city centennial weeks mayorelect berkowitz announced transition team create blueprint safe secure strong anchorage charge create forward thinking transition report recognized unique chalengesanchorage ak smart city challenge ict concept operations architecture opportunities identifying steps administration effectively address critical issues face anchorage assembled team co chairs subcommittee cochairs community business leaders practitioners endusers organized issues specific working groups committee hosted people rosters comprised diverse group participants wide range backgrounds cultures committees tasked examining mayor elect berkowitzs key areas concerns developing collaborative comprehensive approach addressing specific area focus focus areas included public safety homelessness business excellence revitalized resilient neighborhoods ensure greater public participation mayorelect berkowitz hosted town hall meetings community diversity celebration twowek period june public events drew people combined gave anchorage residents opportunity share thoughts future mayor end june committee produced final draft recommendations arising presentations received outgoing administration committee discussions public conversations outlined mayor berkowitz cover letter anchorage focused highly motivated employs continuity committed leadership capacity carry demonstration period performance anchorage faces fiscal headwinds declining oil prices military downsizing recognizes need resilient economic diversification strategic development redevelopment efforts key neighborhoods particularly struggling downtown support entrepreneurial activity commitment integrating sharing economy natural fit anchorage diversifies economy anchorage smart growth america grantee result technical assistance focus range issues including transit oriented development complete streets smart growth zoning economic development fiscal health parking management regional planning small communities topics blomberg philanthropies works city grantee anchorage publicly committed establish improve open data practices order citys data accessible city managers public engage residents government priorities services increase transparency accountability publishing highquality city data anchorage fuel innovation entrepreneurship making easier public engage access government services site map site anchorages ict concept operations architecture reflect mpo boundaries anchorage metropolitan area transportation solutions amats mpo theanchorage ak smart city challenge ict concept operations architecture urbanized area designated governor jay hamond april additionally yous secretary transportation designated amats transportation management area tma amats responsibility meet requirements fast act metropolitan planning area mpa requirements development multimodal transportation system integrates land use plans reflects c planning process meets federal state planning requirements site map located appendix approach relates transportation usdot vision elements woven anchorages adopted transportation plans including interim metropolitan transportation plan anchorage comprehensive plan human service coordinated transportation plan congestion management process pedestrian plan bicycle plan people mover blueprint freight mobility study smart city challenge provides anchorage opportunity holisticaly integrate technology solutions recommended implementation federally funded planning efforts listed reviewing trends traffic ict concept operations architecture proposal recognize significance secretary foxs sentiments trends anchorage committing working strategies outlined better care legacy transportation systems build new necessary use technologies better design approaches allow maximize use old new transportation assets follows highlights anchorage currently meeting intent visions planning integrate visions ict concept operations architecture technology elements vision element urban automation anchorage recognizes ability automated transportation enhance safety mobility accessibility equity environment examples automated transportation planned anchorage area includes traffic operations center toc significant discussion establishing transportation operation center anchorage area currently multiagency group looking toc functions needed best meet needs group assess configuration toc options ranging brick mortar building completely virtual toc work completed recommendations need implemented likely multiple projects starting near term extending implement recomendationsanchorage ak smart city challenge ict concept operations architecture trafi c signal controller upgrade existing traffic signal controllers relatively old features capabilities controllers constrained current effort upgrade signal controllers effort continue nearterm vision element connected vehicles opportunity utilize connected infrastructure order improve safety increase mobility achieve environmental gains great interest anchorage efficient realtime responsive mobility solutions ability positively impact community reducing congestion providing valuable transportation data planners operators automated vehicles vehicles connected infrastructure soon anchorage prepare examples connected infrastructure planned anchorage area includes transit signal priority tsp municipality public trans department piloted tsp systems routes anchorage tsp additional locations help municipalitys transit provider achieve maintain time performance turn reduce travel time making transit favorable public tsp assist emergency response disasters evacuation triage etc implementation tsp hold traffic signal controller upgrade project complete signal priority maintenance vehicles transit vehicles ability request priority traffic signals onboard systems allowing maintenance vehicles snow plows ability allows maintenance work completed quickly fewer disruptions traffic flow particularly important snow plows allow proceed routes expeditiously possible usage signal priority systems include automatic vehicle location avl capabilities turnsignal linkage currently municipality state alaska plans build roadside infrastructure connect directly vehicles eg road signs embedded ability communicate private vehicles result application municipalitystate alaska elect conduct costbenefit analysis including maintenance costs determine deployment technology warranted connected vehicle environment included current architecture update mpo staff researching include metropolitan transportation plan update vision element intelligent sensorbased infrastructure cameras sensors multiple departments variety purposes permissions granted given proper controls privacy eg realtime traffic cameras fire police assess incidents determine appropriate levels response parking sensorscameras assist water utilities detection water main breaks transit center security cameras connected police incident monitoringresponse multianchorage ak smart city challenge ict concept operations architecture departmentagency agreements identified upfront technologies implemented implementation costs examples intelligent sensorbased infrastructure planned anchorage area includes bicycle detection warnings adopted bicycle plan includes action item recommendation consider visual motion detection options detecting bicycles signalized intersections high level bicycle use exists anticipated strategy include camera radar detection strategy detect bicycles input traffic signal controller providing warnings drivers motorized vehicles presence bicyclists means dynamic message signs flashing warning signs closed circuit television ctv ctv provides agencies operators public realtime images traffic incidents occur regional roadways anchorage police department anchorage fire department specifically voiced interest expansion camera coverage camera images help maintenance staff making decisions operations images verify reports field determine type equipment needed treat injured persons remove accidents andor debris roadway cameras currently place municipality effort expand coverage cameras municipality parkin g space sensors municipality planning implement new parking management system system able provide parking occupancy availability information travelers know parking spaces available include wayfinding features provide travelers information available spaces project mid term parking revenue control system updated envisioned information displayed signs streets traveler information website highwayrail intersection hri warnings envisioned municipality implement hri warning systems located near highwayrail intersections improve driver awareness oncoming trains improve safety hris railroad information collected alaska railroad corporation arc wayside equipment detectors provide needed data feature advanced train detection collect data train speed location arrival times crossing delays collecting distributing information travelers agencies motorists choose routes times travel minimize delays caused rail crossings dynamic message signs primary mechanism providing information displayed traveler information website smartphone aps cameras sensors purpose departments purposes permissions granted given proper controls privacy eg realtime traffic cameras fire police assess incidents determine appropriate levels responseanchorage ak smart city challenge ict concept operations architecture parking sensorscameras assist water utilities detection water main breaks transit center security cameras connected police incident monitoringresponse multi departmentagency agreements identified upfront technologies implemented implementation costs innovative approaches urban transportation elements vision element urban analytics anchorage datarich environment thirty seven municipal departments collecting variety data integrate data order address complex urban challenges performance measures improve services current operations examples urban analytics anchorage area includes data archive investigation support multiagency data sharing currently agencies region maintain data repositories makes convenient internal operations terms accessing historic data ones ag ency convenient obtaining data aim data archive service area support multiagency data sharing creating central archive data services system different agencies contribute access abundant historic data streamlined readily attainable participating agencies currently consensus organization management approach centralized data archive step conduct study specific needs data archiving best meet needs study consider types data archived priority archiving type archive best fit regional agencies terms ownership operations potential policies procedures connected archive second effort implement archive suggested midterm common geographic information system gis municipality currently common gis platform departments divisions access platform continue additional needs gis layers applications efforts follow greatest needs departments divisions shared traffic database overall data archive traffic data shared easily retrieved traffic data noted agencies need initial focus regional data archive implementing shared database traffic data reduce burden agencies collect data search data exists municipality effort investigate geocoding traffic data displayed gis layer graphically display information wifibluetoth detection travel time wifi bluetoth detectors determine travel times roadway network system provide high quality travelanchorage ak smart city challenge ict concept operations architecture time purpose modifying traffic signal timing performance monitoring post travel times public web technology exists costefective implement step design implement pilot study determine works support traffic signal timing changes successful best expand system road weather information systems rwis data sharing akdotpf currently operates rwis municipality surrounding area mechanism share information maintenance staff municipality help determining effective winter maintenance actions vision element userfocused mobility services choices anchorages travel options programs encourage residents commuters visitors private automobile trips provide opportunities walk bike share rides transit programs coordinated efforts amats public transit business community universities institutions area nonprofits provide education information incentives resources encourage alternatives driving anchorage sustainable encouraging different modes travel implementing bicycle plan pedestrian plan supporting integrated mobility use new smart phone ap multimodal trip planning multimodal trip planner amats currently working multimodal trip planner hosted rideamigos includes smartphone ap piece technology enhance overall mobility community including people disabilities seniors milenials data consolidated available organizations use planning purposes traveler information web site real time data sources available proposed valuable display traveler information website ctv camera images popular types traveler information existing planned ctv images motion stills displayed addition information travel times wifibluetoth detectors displayed information incidents planned construction closures special events affect traffic included additional realtime planned data available added website intelligent transit stops ranges kiosks static transit schedules realtime information schedules locations transit vehicles arrival time vehicle alternative routes modes shown midterm public transportation tied existing projects determining technology refresh near term fare payment customers public transit department like provide mechanism customers recharge transit accounts online andor smartphone ap anchorage ak smart city challenge ict concept operations architecture project investigate best mechanisms anchorage step followed implementation projec integration alaska existing condition entry system akdotpf connects directly system information shared variety agencies authorized personnel municipality police fire traffic operators input retrieve traffic information roadway conditions directly statewide database personnel enter retrieve data use mobile devices entered information available simultaneously reducing time needed report information individual agencies public currently municipality memorandum agreement akdotpf anchorage police department recently agreed approach incident information directly fed akdotpf nixel feed parking management municipality planning implement new parking management system system able provide parking occupancy availability information travelers know parking spaces available include wayfinding features provide travelers information available spaces project mid term parking revenue control system updated envisioned information displayed signs streets traveler information website vision element urban delivery logistics anchorage gateway connection world alaska freight shipments sustain state local economies modernizing port anchorage essential accommodating larger vessels adapting changing requirements technologies trucks sizes distribute goods arrive depart air sea rail carrying freight anchorage metropolitan area region freight distribution integral daily economic activity municipality freight travel patterns affect traffic affected efficiency road network update freight mobility plan currently way document examine innovative solutions effectively efficiently goods including food energy manufactured goods use data deploying technology create opportunities efficient supply chain approach delivers safer logistics management improved ontime pickups delivery improved travel time reliability reduced fuel consumption reduced labor vehicle maintenance costs vision element strategic business models partnering opportunities anchorage welcomes opportunity leverage creative strategic partnerships draw stakeholders maximize resources investments partners include municipal departments matsu borough general public anchorage economic developmentanchorage ak smart city challenge ict concept operations architecture corporation anchorage community development authority alaska native corporations tribal groups alaska railroad code anchorage university alaska anchorage vision element smart grid roadway electrification electric vehicles electric vehicles identified architecture update construction state oftheart natural gas power plant coupled increased energy efficiency measures municipality creates potential excess electrical generation capacity clears way reduced costs electric vehicle fleets additional capacity available anchorage plans transition municipal fleets including buses electric vehicles process include installing charging stations municipal parking lots municipal light power utility service area eventually anchorage use public private electric vehicle owners additionally anchorage owned electric utility municipal light power intends install smart grid metering infrastructure pilot program year coupling system enhanced data collection systems municipality create stronger platform informed decision making future vision element connected involved citizens anchorages citizens connected multiple levels connected sense participate active community matters local state government second connected data generate share use outlined letter support partner code anchorage worked successfully municipal departments order use data new useful ways amats currently working multimodal trip planner hosted rideamigos includes smartphone ap piece technology enhanc e overall mobility community including people disabilities seniors milenials data consolidated available organizations use planning purposes smart city elements vision element architecture standards relates transportation anchorage amats maintains regional architecture turbo architecturetm turbo architecturetm supports fhwa rule fta national architecture policy transit projects vision element lowcost efficient secure resilient information communications technology vision element heart anchorages smart city challenge proposal developing ict concept operations architecture provide anchorage strategies practices advance information communications technology ict affordable adaptableanchorage ak smart city challenge ict concept operations architecture efficient secure resilient including integrated telecommunications platforms enterprise software storage visualization systems include ict contributes common operating platform inform city government decisionmaking ict infrastructure technologies services critical smart city ict consists unified communications integration telecommunications computers necessary enterprise software storage visualization systems enable users access store transmit manipulate information vision element smart land use anchorage recognizes land use transportation tightly intertwined established land uses metropolitan area constrained locations geographical features coastlines mountains stream corridors established land uses influenced travel patterns exist today understanding relationship distribution housing employment critical project future transportation demand geographical distribution land uses development densities site designs proximity complementary uses directly influence number length trips mode choice viability walking cycling attractiveness transit service travel origindestination patterns regional population growth projections dramatic population growth occurring matsu borough followed chugiakeagle river anchorage physical growth common interest jointly affecting municipality mat su borough jurisdictions house majority population employment state travel interactions economic interest argue collaboration fronts urban region continues grow pressure mounting land remaining anchorage development currently land use transportation considered anchorages land use plan map updated land use strategies considered spenard corridor strategic plan planners working development implementation plan transit oriented development transit supportive corridors risks risks involved ict concept operations architecture project minimal point technical policy institutional risks associated deployment vision meaningful public involvement project communication education critical components project municip al departments general public team ict concept operations architecture project team partners stakeholders includeanchorage ak smart city challenge ict concept operations architecture mayors office amats office emergency management anchorage police department anchorage fire department public transit office economic community development public works maintenance operations traffic department department health human services akdotpf national weather service center gis excellence university alaska anchorage anchorage economic development corporation anchorage community development authority chugiakbirchwodeagle river rural road service area native village eklutna municipal light power anchorage water wastewater utility solid waste services parks recreation information technology finance joint base elmendorf richardson matsu borough alaska railroad port anchorage code anchorage vride bike anchorage identified anchorage open public andor private partnerships order address priorities outlined vision public safety homelessness business excellence revitalized resilient neighborhoods municipal governance process found appendix b existing infrastructure ownership roads shared local state federal governments private entities signalized intersections managed municipality arterial network state managed traffic signals stateowned facilities state alaska owns heavily arterial streets freeways remaining roads owned municipality anchorage cases sections road owned entities indicative importance close intergovernmental cooperation collaboration ownership roads federal government occurs federal lands joint base elmendorfrichardson private roads mpo boundary owned residents use maintain surface transportation system includes freeway centerline miles expressway centerline miles arterial centerline miles collector centerline miles local street centerline miles bicycle lane centerline miles pedestrian system miles sidewalk trail system miles separated multiuse trails transit services people mover fixedroute bus service metropolitan area operated municipality anchorage public transit department bus service ranges minute headways weekday peak generally minutes hours includinganchorage ak smart city challenge ict concept operations architecture weekends service chugiakeagle river anchorage available eagle river connect monday friday valley mover public commuter service operates matsu borough anchorage valley mover offers round trips day mondayfriday shareduse mobility services anchorides provides demandresponse curb tocurb transportation service people disabilities prevent people mover fixedroute system senior citizens anchorage school district provides transportation students live miles school live routes designated hazardous walking eligible ride school bus vanpoling supported public transits share aride program contracted vride vanpols operation originate matsu borough carpoling anchorage area currently informal people use twitter craigslist zimride ridester erideshare carpol world mpo currently working project drastically improve carpoling scholpoling efforts state taxi service anchorage provided alaska yellow cab checker cab bikeshare available university alaska anchorage municipality looking partner university alaska anchorage expand carsharing anchorage additionally looking electric carsharing fleet able capitalize excess electrical generation capacity new natural gas power plant construction anchorage variety human service shuttles private shuttles operate anchorage allow general public ride transport clients students employees information communication technology ict anchorages smart city challenge proposal ict concept operations architecture intelligent transportation systems including transportation management centers field equipment smart grid infrastructure including electric vehicle charging infrastructureanchorage ak smart city challenge ict concept operations architecture vision element smart grid roadway electrification electric vehicles anchorage planning excess electrical generation capacity includes transitioning municipal fleets including buses electric vehicles process include installing charging stations municipal parking lots municipal light power utility service area eventually anchorage use public private electric vehicle owners data collection data collected thirtyseven municipal departments currently anchorage water wastewater utility hosts gis center excellence municipal maps aps gallery product center existing capacity center deals limited data center vision enterprise gis anchorage strategic resource sharing timely accurate reliable geographical information municipal departments public agencies public large anchorages ict concept operations architecture project identify lead additional project partners stakeholders order integrate data city collecting improve management operations existing policies currently policies place applicable proposed data collected shared anchorages ict concept operations architecture project application existing standards applicable time anchorages ict concept operations architecture project application performance measures performance measures ict concept operations architecture project defined metrics include increases mobility safety system efficiency economic vitality sustainability reductions congestion environmental impacts gaps service additional performance measures include anchorages f focus areas public safety homelessness business excellence revitalized resilient neighborhoods capacity municipality possesses technical capacity implement administer ict concept operations architecture projects funded usdot implemented accordance grant application master agreement applicable laws regulations sound management practicesanchorage ak smart city challenge ict concept operations architecture municipality eligible authorized state local law request receive dispense usdot funds execute administer federally funded projects fy annual list certifications assurances signed authorized official attorney additionally legal issues impact anchorages federal program municipality continues demonstrate ability match manage usdot grant funds cover cost increases operating deficits financially maintaining operating federally funded programs facilities anchorage conducts responds applicable audits outstanding financial issues impact anchorages federal program adequate financial management system place allowing grant balances tracked accurately resources anchorage mechanisms place leverage federal resources amats recently crowd sourcing meet local match requirement freight mobility study update currently underwayanchorage ak smart city challenge ict concept operations architecture appendix amats boundary mapknik arm turnagain armt r n g n r mk n k r northern lights boulevard abbot road omaley roadtudor roadlake otis parkwaydimond blvd seward highwayelm ore roadth avenueglen highwaymuldon road ineso ta drive rabbit creek road seward highwaysand lake rdeagle river rdold glenn hwyglen hwy hiland rd mileseagle river pm limited maintenance areanchorage co limited maintenance area census urbanized area boundaryamats boundaries moa boundary lakes parks military boundaries c h g c h e p r kj n b e e l e n r f r c h r n amats area boundaryexpanded census urbanized area boundaryanchorage ak smart city challenge ict concept operations architecture appendix b municipality anchorage governance process	12	 	 
